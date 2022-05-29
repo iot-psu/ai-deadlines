@@ -13,7 +13,7 @@ To add or update information:
 Or,
 - Update `_data/conferences.yml`
 - Make sure it has the `name`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place` attributes
-- Run `python3 utils/process.py`
+- Run `python3 utils/process.py` to sort the `conference.yml` based on DDL.
 - Push
 
 
