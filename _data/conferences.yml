@@ -1,39 +1,27 @@
 
 ---
 
-- name: IoTDI
+- name: ECCV
   year: 2022
-  id: IoTDI2022
-  link: https://conferences.computer.org/iotDI/2022/
-  deadline: "2021-10-29 23:59:59"
+  id: ECCV2022
+  link: https://eccv2022.ecva.net/
+  deadline: "2022-06-01 23:59:00"
   timezone: EST
-  date: May 3-6, 2022
-  place: ACM/IEEE
-  sub: IOT
-  note: "DDL may differ based on timezone, please check carefully"
+  date: Oct. 23-27 2022.
+  place: Tel-Aviv
+  sub: CV
+  note: DDL may differ based on timezone, please check carefully
 
-- name: INFOCOM
-  year: 2022
-  id: INFOCOM2022
-  link: https://infocom2022.ieee-infocom.org/
-  deadline: "2021-07-31 23:59:59"
+- name: ICML
+  year: 2023
+  id: ICML2023
+  link: https://waset.org/m-learning-conference-in-april-2023-in-venice
+  deadline: "2022-06-01 23:59:00"
   timezone: EST
-  date: May 2-5, 2022
-  place: IEEE
-  sub: IOT
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: IPSN
-  year: 2022
-  id: IPSN2022
-  link: https://ipsn.acm.org/2022/
-  deadline: "2021-10-29 23:59:00"
-  timezone: EST
-  date: May 4-6, 2022 
-  place: Milan, Italy
-  sub: IOT
-  note: "DDL may differ based on timezone, please check carefully"
-
+  date: April 12-13, 2023
+  place: Venice, Italy
+  sub: ML
+  note: DDL may differ based on timezone, please check carefully
 
 - name: MOBICOM
   year: 2022
@@ -41,112 +29,10 @@
   link: https://www.sigmobile.org/mobicom/2022/
   deadline: "2022-06-10 23:59:00"
   timezone: EST
-  date: Oct 17-21, 2022 
+  date: Oct 17-21, 2022
   place: Hyatt Regency Sydney, Australia
   sub: IOT
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: SENSYS
-  year: 2022
-  id: SENSYS2022
-  link: https://sensys.acm.org/2022/
-  deadline: "2022-06-21 23:59:00"
-  timezone: EST
-  date: Nov 7-9, 2022
-  place: Boston, USA
-  sub: IOT 
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: SIGCOMM
-  year: 2022
-  id: SIGCOMM2022
-  link: https://conferences.sigcomm.org/sigcomm/2022/cfp.html
-  deadline: "2022-02-02 23:59:00"
-  timezone: EST
-  date:  Aug 22-26, 2022
-  place: Amsterdam, the Netherlands
-  sub: IOT
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: CHI
-  year: 2022
-  id: CHI2022
-  link: https://chi2022.acm.org/
-  deadline: "2021-11-18 23:59:00"
-  timezone: EST
-  date:  Apr 30 - May 5, 2022
-  place: New Orleans, USA
-  sub: IOT
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: NSDI
-  year: 2023
-  id: NSDI2023
-  link: https://www.usenix.org/conference/nsdi23
-  deadline: "2022-09-13 23:59:00"
-  timezone: EST
-  date:  APRIL 17–19, 2023
-  place: BOSTON, MA, USA
-  sub: IOT
-  note: "DDL may differ based on timezone, please check carefully"
-
-
-- name: IMWUT
-  year: 2022
-  id: IMWUT2022
-  link: https://dl.acm.org/journal/imwut
-  deadline: "2022-08-15 23:59:00"
-  timezone: EST
-  date:  Unknown
-  place: Unknown
-  sub: IOT
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: ICC
-  year: 2023
-  id: ICC2023
-  link: https://icc2023.ieee-icc.org/
-  deadline: "2022-10-11 23:59:00"
-  timezone: EST
-  date:  28 May - 1 June 2023
-  place: Rome RM, Italy
-  sub: IOT
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: GLOBECOM
-  year: 2022
-  id: GLOBECOM2022
-  link: https://globecom2022.ieee-globecom.org/
-  deadline: "2022-05-22 23:59:00"
-  timezone: EST
-  date:  December 4-8, 2022 
-  place: Rio de Janeiro, Brazil 
-  sub: IOT
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: CVPR
-  year: 2022
-  id: CVPR2022
-  link: https://cvpr2022.thecvf.com/
-  deadline: "2021-11-18 23:59:00"
-  timezone: EST
-  date:  June 19 – 24, 2022
-  place: New Orleans, USA
-  sub: CV
-  note: "DDL may differ based on timezone, please check carefully"
-
-
-- name: ECCV
-  year: 2022
-  id: ECCV2022
-  link: https://eccv2022.ecva.net/
-  deadline: "2022-06-01 23:59:00"
-  timezone: EST
-  date:   Oct. 23-27 2022.
-  place: Tel-Aviv
-  sub: CV
-  note: "DDL may differ based on timezone, please check carefully"
-
+  note: DDL may differ based on timezone, please check carefully
 
 - name: ICCV
   year: 2023
@@ -154,11 +40,10 @@
   link: https://waset.org/computer-vision-conference-in-january-2023-in-istanbul
   deadline: "2022-06-10 23:59:00"
   timezone: EST
-  date:  January 28-29, 2023
+  date: January 28-29, 2023
   place: Istanbul, Turkey
   sub: CV
-  note: "DDL may differ based on timezone, please check carefully"
-
+  note: DDL may differ based on timezone, please check carefully
 
 - name: SIGGRAPH
   year: 2022
@@ -169,110 +54,7 @@
   date: 8-11 August, 2022
   place: VANCOUVER
   sub: CV
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: WACV
-  year: 2023
-  id: WACV2023
-  link: https://wacv2023.thecvf.com/home
-  deadline: "2022-07-13 23:59:00"
-  timezone: EST
-  date:  January 3-7, 2023
-  place: Unknown
-  sub: CV
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: ACCV
-  year: 2022
-  id: ACCV2022
-  link: https://accv2022.org/en/
-  deadline: "2022-07-06 23:59:00"
-  timezone: EST
-  date:  4-8 DECEMBER 2022
-  place: Macau SAR, China
-  sub: CV
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: AAAI
-  year: 2023
-  id: AAAI2023
-  link: https://aaai.org/Conferences/AAAI-23/
-  deadline: "2022-07-11 23:59:00"
-  timezone: EST
-  date:  February 7-14, 2023
-  place: Washington, DC, USA
-  sub: ML
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: ICLR
-  year: 2023
-  id: ICLR2023
-  link: https://waset.org/learning-representations-conference-in-august-2023-in-sydney
-  deadline: "2022-07-01 23:59:00"
-  timezone: EST
-  date:  August 30-31, 2023
-  place: Sydney, Australia
-  sub: ML
-  note: "DDL may differ based on timezone, please check carefully"
-
-
-
-- name: ICML
-  year: 2023
-  id: ICML2023
-  link: https://waset.org/m-learning-conference-in-april-2023-in-venice
-  deadline: "2022-06-01 23:59:00"
-  timezone: EST
-  date:  April 12-13, 2023
-  place: Venice, Italy
-  sub: ML
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: NeurIPS
-  year: 2022
-  id: NeurIPS2022
-  link: https://nips.cc/
-  deadline: "2022-05-19 23:59:00"
-  timezone: EST
-  date:  Nov 29 - Dec 1, 2022
-  place: New Orleans, USA
-  sub: ML
-  note: "DDL may differ based on timezone, please check carefully"
-
-
-- name: ACML
-  year: 2022
-  id: ACML2022
-  link: https://www.acml-conf.org/2022/
-  deadline: "2022-06-23 23:59:00"
-  timezone: EST
-  date:  Dec 14 - 16, 2022
-  place: Hyderabad, India
-  sub: ML
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: EMNLP
-  year: 2022
-  id: EMNLP2022
-  link: https://2022.emnlp.org/
-  deadline: "2022-06-17 23:59:00"
-  timezone: EST
-  date:  Dec 7 - 11, 2022
-  place: Abu Dhabi
-  sub: NLP
-  note: "DDL may differ based on timezone, please check carefully"
-
-
-- name: IJCNLP
-  year: 2022
-  id: IJCNLP2022
-  link: https://www.aacl2022.org/
-  deadline: "2022-07-15 23:59:00"
-  timezone: EST
-  date:  November 20-23, 2022
-  place: Taiwan
-  sub: NLP
-  note: "DDL may differ based on timezone, please check carefully"
+  note: DDL may differ based on timezone, please check carefully
 
 - name: ICDM
   year: 2022
@@ -280,22 +62,208 @@
   link: https://icdm22.cse.usf.edu/
   deadline: "2022-06-10 23:59:00"
   timezone: EST
-  date:  Nov. 30 – Dec. 3, 2022
+  date: "Nov. 30 \u2013 Dec. 3, 2022"
   place: Orlando, FL, USA
   sub: DM
-  note: "DDL may differ based on timezone, please check carefully"
+  note: DDL may differ based on timezone, please check carefully
 
-
-- name: ICRA
-  year: 2023
-  id: ICRA2023
-  link: https://www.ieee-ras.org/component/rseventspro/event/1706-icra-2023-international-conference-on-robotics-and-automation
-  deadline: "2099-0-10 23:59:00"
+- name: null
+  year: null
+  id: null
+  link: https://www.google.com
+  deadline: "2022-06-10 23:59:00"
   timezone: EST
-  date:  29 May-2 June 2023
-  place: London, United Kingdom
-  sub: O
-  note: "DDL may differ based on timezone, please check carefully"
+  date: null
+  place: null
+  sub: null
+  note: DDL may differ based on timezone, please check carefully
+
+- name: null
+  year: null
+  id: null
+  link: https://www.google.com
+  deadline: "2022-06-10 23:59:00"
+  timezone: EST
+  date: null
+  place: null
+  sub: null
+  note: DDL may differ based on timezone, please check carefully
+
+- name: null
+  year: null
+  id: null
+  link: https://www.google.com
+  deadline: "2022-06-10 23:59:00"
+  timezone: EST
+  date: null
+  place: null
+  sub: null
+  note: DDL may differ based on timezone, please check carefully
+
+- name: null
+  year: null
+  id: null
+  link: https://www.google.com
+  deadline: "2022-06-10 23:59:00"
+  timezone: EST
+  date: null
+  place: null
+  sub: null
+  note: DDL may differ based on timezone, please check carefully
+
+- name: null
+  year: null
+  id: null
+  link: https://www.google.com
+  deadline: "2022-06-10 23:59:00"
+  timezone: EST
+  date: null
+  place: null
+  sub: null
+  note: DDL may differ based on timezone, please check carefully
+
+- name: null
+  year: null
+  id: null
+  link: https://www.google.com
+  deadline: "2022-06-10 23:59:00"
+  timezone: EST
+  date: null
+  place: null
+  sub: null
+  note: DDL may differ based on timezone, please check carefully
+
+- name: null
+  year: null
+  id: null
+  link: https://www.google.com
+  deadline: "2022-06-10 23:59:00"
+  timezone: EST
+  date: null
+  place: null
+  sub: null
+  note: DDL may differ based on timezone, please check carefully
+
+- name: null
+  year: null
+  id: null
+  link: https://www.google.com
+  deadline: "2022-06-10 23:59:00"
+  timezone: EST
+  date: null
+  place: null
+  sub: null
+  note: DDL may differ based on timezone, please check carefully
+
+- name: null
+  year: null
+  id: null
+  link: https://www.google.com
+  deadline: "2022-06-10 23:59:00"
+  timezone: EST
+  date: null
+  place: null
+  sub: null
+  note: DDL may differ based on timezone, please check carefully
+
+- name: EMNLP
+  year: 2022
+  id: EMNLP2022
+  link: https://2022.emnlp.org/
+  deadline: "2022-06-17 23:59:00"
+  timezone: EST
+  date: Dec 7 - 11, 2022
+  place: Abu Dhabi
+  sub: NLP
+  note: DDL may differ based on timezone, please check carefully
+
+- name: SENSYS
+  year: 2022
+  id: SENSYS2022
+  link: https://sensys.acm.org/2022/
+  deadline: "2022-06-21 23:59:00"
+  timezone: EST
+  date: Nov 7-9, 2022
+  place: Boston, USA
+  sub: IOT
+  note: DDL may differ based on timezone, please check carefully
+
+- name: ACML
+  year: 2022
+  id: ACML2022
+  link: https://www.acml-conf.org/2022/
+  deadline: "2022-06-23 23:59:00"
+  timezone: EST
+  date: Dec 14 - 16, 2022
+  place: Hyderabad, India
+  sub: ML
+  note: DDL may differ based on timezone, please check carefully
+
+- name: ICLR
+  year: 2023
+  id: ICLR2023
+  link: https://waset.org/learning-representations-conference-in-august-2023-in-sydney
+  deadline: "2022-07-01 23:59:00"
+  timezone: EST
+  date: August 30-31, 2023
+  place: Sydney, Australia
+  sub: ML
+  note: DDL may differ based on timezone, please check carefully
+
+- name: ACCV
+  year: 2022
+  id: ACCV2022
+  link: https://accv2022.org/en/
+  deadline: "2022-07-06 23:59:00"
+  timezone: EST
+  date: 4-8 DECEMBER 2022
+  place: Macau SAR, China
+  sub: CV
+  note: DDL may differ based on timezone, please check carefully
+
+- name: AAAI
+  year: 2023
+  id: AAAI2023
+  link: https://aaai.org/Conferences/AAAI-23/
+  deadline: "2022-07-11 23:59:00"
+  timezone: EST
+  date: February 7-14, 2023
+  place: Washington, DC, USA
+  sub: ML
+  note: DDL may differ based on timezone, please check carefully
+
+- name: WACV
+  year: 2023
+  id: WACV2023
+  link: https://wacv2023.thecvf.com/home
+  deadline: "2022-07-13 23:59:00"
+  timezone: EST
+  date: January 3-7, 2023
+  place: Unknown
+  sub: CV
+  note: DDL may differ based on timezone, please check carefully
+
+- name: IJCNLP
+  year: 2022
+  id: IJCNLP2022
+  link: https://www.aacl2022.org/
+  deadline: "2022-07-15 23:59:00"
+  timezone: EST
+  date: November 20-23, 2022
+  place: Taiwan
+  sub: NLP
+  note: DDL may differ based on timezone, please check carefully
+
+- name: IMWUT
+  year: 2022
+  id: IMWUT2022
+  link: https://dl.acm.org/journal/imwut
+  deadline: "2022-08-15 23:59:00"
+  timezone: EST
+  date: Unknown
+  place: Unknown
+  sub: IOT
+  note: DDL may differ based on timezone, please check carefully
 
 - name: SP
   year: 2023
@@ -303,10 +271,43 @@
   link: https://www.ieee-security.org/TC/SP2023/
   deadline: "2022-08-19 23:59:00"
   timezone: EST
-  date:  MAY 22-26, 2023 
+  date: MAY 22-26, 2023
   place: SAN FRANCISCO, CA
   sub: S
-  note: "DDL may differ based on timezone, please check carefully"
+  note: DDL may differ based on timezone, please check carefully
+
+- name: NSDI
+  year: 2023
+  id: NSDI2023
+  link: https://www.usenix.org/conference/nsdi23
+  deadline: "2022-09-13 23:59:00"
+  timezone: EST
+  date: "APRIL 17\u201319, 2023"
+  place: BOSTON, MA, USA
+  sub: IOT
+  note: DDL may differ based on timezone, please check carefully
+
+- name: ICC
+  year: 2023
+  id: ICC2023
+  link: https://icc2023.ieee-icc.org/
+  deadline: "2022-10-11 23:59:00"
+  timezone: EST
+  date: 28 May - 1 June 2023
+  place: Rome RM, Italy
+  sub: IOT
+  note: DDL may differ based on timezone, please check carefully
+
+- name: ICRA
+  year: 2023
+  id: ICRA2023
+  link: https://www.ieee-ras.org/component/rseventspro/event/1706-icra-2023-international-conference-on-robotics-and-automation
+  deadline: "2099-06-10 23:59:00"
+  timezone: EST
+  date: 29 May-2 June 2023
+  place: London, United Kingdom
+  sub: O
+  note: DDL may differ based on timezone, please check carefully
 
 - name: WWW
   year: 2023
@@ -314,11 +315,76 @@
   link: https://www2023.thewebconf.org/
   deadline: "2099-06-10 23:59:00"
   timezone: EST
-  date:  MAY 1-5, 2023
+  date: MAY 1-5, 2023
   place: TEXAS, USA
   sub: O
-  note: "DDL may differ based on timezone, please check carefully"
+  note: DDL may differ based on timezone, please check carefully
 
+- name: INFOCOM
+  year: 2022
+  id: INFOCOM2022
+  link: https://infocom2022.ieee-infocom.org/
+  deadline: "2021-07-31 23:59:59"
+  timezone: EST
+  date: May 2-5, 2022
+  place: IEEE
+  sub: IOT
+  note: DDL may differ based on timezone, please check carefully
+
+- name: IPSN
+  year: 2022
+  id: IPSN2022
+  link: https://ipsn.acm.org/2022/
+  deadline: "2021-10-29 23:59:00"
+  timezone: EST
+  date: May 4-6, 2022
+  place: Milan, Italy
+  sub: IOT
+  note: DDL may differ based on timezone, please check carefully
+
+- name: IoTDI
+  year: 2022
+  id: IoTDI2022
+  link: https://conferences.computer.org/iotDI/2022/
+  deadline: "2021-10-29 23:59:59"
+  timezone: EST
+  date: May 3-6, 2022
+  place: ACM/IEEE
+  sub: IOT
+  note: DDL may differ based on timezone, please check carefully
+
+- name: CHI
+  year: 2022
+  id: CHI2022
+  link: https://chi2022.acm.org/
+  deadline: "2021-11-18 23:59:00"
+  timezone: EST
+  date: Apr 30 - May 5, 2022
+  place: New Orleans, USA
+  sub: IOT
+  note: DDL may differ based on timezone, please check carefully
+
+- name: CVPR
+  year: 2022
+  id: CVPR2022
+  link: https://cvpr2022.thecvf.com/
+  deadline: "2021-11-18 23:59:00"
+  timezone: EST
+  date: "June 19 \u2013 24, 2022"
+  place: New Orleans, USA
+  sub: CV
+  note: DDL may differ based on timezone, please check carefully
+
+- name: SIGCOMM
+  year: 2022
+  id: SIGCOMM2022
+  link: https://conferences.sigcomm.org/sigcomm/2022/cfp.html
+  deadline: "2022-02-02 23:59:00"
+  timezone: EST
+  date: Aug 22-26, 2022
+  place: Amsterdam, the Netherlands
+  sub: IOT
+  note: DDL may differ based on timezone, please check carefully
 
 - name: ACMMM
   year: 2022
@@ -326,107 +392,29 @@
   link: https://2022.acmmm.org/
   deadline: "2022-04-07 23:59:00"
   timezone: EST
-  date:  10 - 14 October, 2022
+  date: 10 - 14 October, 2022
   place: Lisbon, Portugal
   sub: O
-  note: "DDL may differ based on timezone, please check carefully"
+  note: DDL may differ based on timezone, please check carefully
 
-- name: 
-  year: 
-  id: 
-  link: https://www.google.com
-  deadline: "2022-06-10 23:59:00"
+- name: NeurIPS
+  year: 2022
+  id: NeurIPS2022
+  link: https://nips.cc/
+  deadline: "2022-05-19 23:59:00"
   timezone: EST
-  date:  
-  place: 
-  sub: 
-  note: "DDL may differ based on timezone, please check carefully"
+  date: Nov 29 - Dec 1, 2022
+  place: New Orleans, USA
+  sub: ML
+  note: DDL may differ based on timezone, please check carefully
 
-- name: 
-  year: 
-  id: 
-  link: https://www.google.com
-  deadline: "2022-06-10 23:59:00"
+- name: GLOBECOM
+  year: 2022
+  id: GLOBECOM2022
+  link: https://globecom2022.ieee-globecom.org/
+  deadline: "2022-05-22 23:59:00"
   timezone: EST
-  date:  
-  place: 
-  sub: 
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: 
-  year: 
-  id: 
-  link: https://www.google.com
-  deadline: "2022-06-10 23:59:00"
-  timezone: EST
-  date:  
-  place: 
-  sub: 
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: 
-  year: 
-  id: 
-  link: https://www.google.com
-  deadline: "2022-06-10 23:59:00"
-  timezone: EST
-  date:  
-  place: 
-  sub: 
-  note: "DDL may differ based on timezone, please check carefully"
-
-
-- name: 
-  year: 
-  id: 
-  link: https://www.google.com
-  deadline: "2022-06-10 23:59:00"
-  timezone: EST
-  date:  
-  place: 
-  sub: 
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: 
-  year: 
-  id: 
-  link: https://www.google.com
-  deadline: "2022-06-10 23:59:00"
-  timezone: EST
-  date:  
-  place: 
-  sub: 
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: 
-  year: 
-  id: 
-  link: https://www.google.com
-  deadline: "2022-06-10 23:59:00"
-  timezone: EST
-  date:  
-  place: 
-  sub: 
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: 
-  year: 
-  id: 
-  link: https://www.google.com
-  deadline: "2022-06-10 23:59:00"
-  timezone: EST
-  date:  
-  place: 
-  sub: 
-  note: "DDL may differ based on timezone, please check carefully"
-
-- name: 
-  year: 
-  id: 
-  link: https://www.google.com
-  deadline: "2022-06-10 23:59:00"
-  timezone: EST
-  date:  
-  place: 
-  sub: 
-  note: "DDL may differ based on timezone, please check carefully"
+  date: December 4-8, 2022
+  place: Rio de Janeiro, Brazil
+  sub: IOT
+  note: DDL may differ based on timezone, please check carefully
