@@ -1,0 +1,14 @@
+title: AI Deadlines
+remark: IoT-oriented
+
+description: Countdowns to top ML / CV / MIC conference and special issue deadlines
+author: Hao Zhou
+maintainers: Hao Zhou
+
+domain: "iot-psu.github.io/ai-deadlines/"
+baseurl: "ai-deadlines"
+
+github_username: iot-psu
+github_repo: ai-deadlines
+
+markdown: kramdown

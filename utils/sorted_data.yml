@@ -1,0 +1,898 @@
+
+---
+
+- name: ECCV review
+  year: 2022
+  id: eccv2022-review
+  link: https://eccv2022.ecva.net/
+  deadline: "2022-05-10 23:59:00"
+  timezone: US/Pacific
+  date: Oct. 23-27 2022
+  place: Tel-Aviv
+  sub: CV
+
+- name: CVPR
+  year: 2018
+  id: cvpr18
+  link: http://cvpr2018.thecvf.com/
+  deadline: "2017-11-15 23:59:59"
+  timezone: America/Los_Angeles
+  date: June 18-23, 2018
+  place: Salt Lake City, Utah
+  sub: CV
+
+- name: SIGGRAPH
+  year: 2018
+  id: siggraph18
+  link: http://s2018.siggraph.org/
+  deadline: "2018-01-23 21:59:59"
+  timezone: GMT
+  date: August 12-16, 2018
+  place: Vancouver, Canada
+  sub: CV
+
+- name: IJCAI
+  year: 2018
+  id: ijcai18
+  link: https://www.ijcai-18.org/
+  deadline: "2018-01-31 23:59:59"
+  timezone: Etc/GMT+12
+  date: July 13-19, 2018
+  place: Stockholm, Sweden
+  sub: ML
+
+- name: ICML
+  year: 2018
+  id: icml18
+  link: https://icml.cc/Conferences/2018
+  deadline: "2018-02-09 18:59:59"
+  timezone: EST
+  date: July 10-15, 2018
+  place: Stockholm, Sweden
+  sub: ML
+
+- name: KDD
+  year: 2018
+  id: kdd18
+  link: http://www.kdd.org/kdd2018/
+  deadline: "2018-02-11 23:59:59"
+  timezone: America/Los_Angeles
+  date: August 19-23, 2018
+  place: London, United Kingdom
+  sub: ML
+
+- name: COLT
+  year: 2018
+  id: colt18
+  link: http://www.learningtheory.org/colt2018/
+  deadline: "2018-02-16 22:59:59"
+  timezone: EST
+  date: July 5-9, 2018
+  place: Stockholm, Sweden
+  sub: ML
+
+- name: UAI
+  year: 2018
+  id: uai18
+  link: http://auai.org/uai2018/index.php
+  deadline: "2018-03-09 23:59:59"
+  timezone: Etc/GMT+11
+  date: August 06-10, 2018
+  place: Monterey, California, USA
+  sub: ML
+
+- name: ECCV
+  year: 2018
+  id: eccv18
+  link: https://eccv2018.org/
+  deadline: "2018-03-14 15:59:00"
+  timezone: America/Los_Angeles
+  date: September 8-14, 2018
+  place: Munich, Germany
+  sub: CV
+
+- name: BMVC
+  year: 2018
+  id: bmvc2018
+  link: http://bmvc2018.org/
+  deadline: "2018-05-07 23:59:59"
+  timezone: America/Los_Angeles
+  date: September 03-06, 2018
+  place: Newcastle upon Tyne
+  sub: CV
+
+- name: NIPS
+  year: 2018
+  id: nips18
+  link: https://nips.cc/Conferences/2018
+  deadline: "2018-05-18 13:00:00"
+  timezone: America/Los_Angeles
+  date: December 3-8, 2018
+  place: "Palais des Congr\xE8s de Montr\xE9al, Montr\xE9al, Canada"
+  sub: ML
+
+- name: AAAI
+  year: 2019
+  id: aaai19
+  link: https://aaai.org/Conferences/AAAI-19/
+  deadline: "2018-09-05 23:59:59"
+  timezone: Etc/GMT+10
+  date: January 27 - February 1, 2019
+  place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
+  sub: ML
+
+- name: T-PAMI Call for RGB-D
+  year: 2019
+  id: pamirgbd
+  link: http://yulanguo.me/pami.html
+  deadline: "2018-09-20 23:59:59"
+  timezone: UTC
+  date: March 20, 2019
+  place: T-PAMI
+  sub: SI
+  note: IEEE Transactions on Pattern Analysis and Machine Intelligence (IF - 9.455)
+
+- name: ICLR
+  year: 2019
+  id: iclr19
+  link: http://iclr.cc/
+  deadline: "2018-09-27 14:00:00"
+  timezone: US/Pacific
+  date: May 06 - 09, 2019
+  place: New Orleans
+  sub: ML
+
+- name: CVPR
+  year: 2019
+  id: cvpr19
+  link: http://cvpr2019.thecvf.com/
+  deadline: "2018-11-16 23:59:59"
+  timezone: US/Pacific
+  date: June 15 - 21, 2019
+  place: Long Beach, CA
+  sub: CV
+
+- name: IPMI
+  year: 2019
+  id: ipmi19
+  link: https://ipmi2019.cse.ust.hk/
+  deadline: "2018-12-13 23:59:00"
+  timezone: US/Pacific
+  date: June 2-7, 2019
+  place: HKUST, Hong Kong
+  sub: MIC
+  note: "<b>NOTE</b>: Mandatory abstract deadline on Dec 6, 2018. "
+
+- name: ICML
+  year: 2019
+  id: ICML19
+  link: https://icml.cc/Conferences/2019
+  deadline: "2019-01-23 15:59:59"
+  timezone: US/Pacific
+  date: Jun 10-15, 2019
+  place: Long Beach Convention Center, Long Beach
+  sub: ML
+
+- name: KDD
+  year: 2019
+  id: kdd19
+  link: http://www.kdd.org/kdd2019
+  deadline: "2019-02-03 23:59:59"
+  timezone: UTC
+  date: August 3 - 7, 2019
+  place: Anchorage, Alaska - USA
+  sub: ML
+
+- name: IJCAI
+  year: 2019
+  id: ijcai19
+  link: https://www.ijcai19.org/
+  deadline: "2019-02-25 23:59:59"
+  timezone: Etc/GMT+8
+  date: August 10-16, 2019
+  place: Macao, China
+  sub: ML
+
+- name: ICCV
+  year: 2019
+  id: iccv19
+  link: http://iccv2019.thecvf.com/
+  deadline: "2019-03-22 23:59:59"
+  timezone: US/Pacific
+  date: October 27 - November 3, 2019
+  place: Seoul, Korea
+  sub: CV
+
+- name: MICCAI
+  year: 2019
+  id: miccai19
+  link: http://www.miccai2019.org/
+  deadline: "2019-04-02 23:59:00"
+  timezone: US/Pacific
+  date: October 13-17, 2019
+  place: Shenzhen, China
+  sub: MIC
+  note: "<b>NOTE</b>: Mandatory abstract deadline (more than 1 week ahead!): Midnight,
+    Pacific Time, March 19th, 2019."
+
+- name: ACM MM
+  year: 2019
+  id: acmmm19
+  link: https://www.acmmm.org/2019/
+  deadline: "2019-04-08 23:59:59"
+  timezone: US/Pacific
+  date: October 21-25, 2019
+  place: Nice, France
+  sub: CV
+
+- name: Deep Learning in Ultrasound Imaging
+  year: 2019
+  id: ebmdlui
+  link: https://jbhi.embs.org/special-issues/deep-learning-in-ultrasound-imaging/
+  deadline: "2019-04-30 23:59:59"
+  timezone: UTC
+  date: September 30, 2019
+  place: EBM
+  sub: SI
+  note: IEEE Journal of Biomedical and Health Informatics (IF - 3.85)
+
+- name: NeurIPS
+  year: 2019
+  id: neurips2019
+  link: https://nips.cc/Conferences/2019
+  deadline: "2019-05-23 18:00:00"
+  timezone: US/Pacific
+  date: Dec 8-14, 2019
+  place: Vancouver Convention Center, Vancouver CANADA
+  sub: ML
+  note: "<b>NOTE</b>: Mandatory abstract deadline: Pacific Time, 2019-05-16 18:00:00."
+
+- name: WACV
+  year: 2020
+  id: wacv20
+  link: http://wacv20.wacv.net/
+  deadline: "2019-07-26 23:59:59"
+  timezone: America/Los_Angeles
+  date: March 2-5, 2020
+  place: Snowmass village, Colorado, USA
+  sub: CV
+  note: "<b>NOTE</b>: First round submission deadline."
+
+- name: AAAI
+  year: 2020
+  id: aaai2020
+  link: http://www.aaai.org/aaai20
+  deadline: "2019-09-05 11:59:00"
+  timezone: US/Hawaii
+  date: Feb 7 - 20, 2020
+  place: New York Hilton Midtown, New York, United State
+  sub: ML
+  note: "<b>NOTE</b>:  Electronic abstracts due at 11:59 PM UTC-10 (midnight Hawaii)."
+
+- name: ICLR
+  year: 2020
+  id: iclr20
+  link: http://iclr.cc/
+  deadline: "2019-09-25 17:59:59"
+  timezone: Africa/Nairobi
+  date: April 30, 2020
+  place: Addis Ababa, Ethiopia
+  sub: ML
+
+- name: T-PAMI Call for Graphs in Vision and Pattern Analysis
+  year: 2020
+  id: pamigraph
+  link: http://songbai.site/files/Call-for-Papers.pdf
+  deadline: "2019-10-01 23:59:59"
+  timezone: UTC
+  date: Apr 1, 2020
+  place: T-PAMI
+  sub: SI
+  note: IEEE Transactions on Pattern Analysis and Machine Intelligence (IF - 17)
+
+- name: ISBI
+  year: 2020
+  id: isbi20
+  link: http://2020.biomedicalimaging.org/
+  deadline: "2019-10-08 23:59:59"
+  timezone: UTC
+  date: April 3-7, 2020
+  place: Iowa City, USA
+  sub: MIC
+
+- name: CVPR
+  year: 2020
+  id: cvpr2020
+  link: http://cvpr2020.thecvf.com
+  deadline: "2019-11-15 23:59:00"
+  timezone: US/Pacific
+  date: Jun 13 - 19, 2020
+  place: Seattle, United States
+  sub: CV
+
+- name: IJCAI
+  year: 2020
+  id: ijcai2020
+  link: https://www.ijcai20.org
+  deadline: "2020-01-21 11:59:00"
+  timezone: UTC
+  date: Jul 11 - 17, 2020
+  place: Yokohama, Japan
+  sub: ML
+  note: "<b>NOTE</b>: Abstract submission deadline: January 15, 2020 (11:59PM UTC-12)"
+
+- name: ICML-abstract
+  year: 2020
+  id: icml2020-abs
+  link: https://icml.cc/Conferences/2020
+  deadline: "2020-01-31 03:59:00"
+  timezone: America/Los_Angeles
+  date: Jul 13 - 18, 2020
+  place: Messe Wien Exhibition & Congress Center, Vienna, Austria
+  sub: ML
+  note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m."
+
+- name: ICML
+  year: 2020
+  id: icml2020
+  link: https://icml.cc/Conferences/2020
+  deadline: "2020-02-07 03:59:00"
+  timezone: America/Los_Angeles
+  date: Jul 13 - 18, 2020
+  place: Messe Wien Exhibition & Congress Center, Vienna, Austria
+  sub: ML
+  note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m. "
+
+- name: CVPR rebuttal
+  year: 2020
+  id: cvpr2020-rebuttal
+  link: http://cvpr2020.thecvf.com
+  deadline: "2020-02-08 23:59:00"
+  timezone: US/Pacific
+  date: Jun 13 - 19, 2020
+  place: Seattle, United States
+  sub: CV
+
+- name: ASCO abstract
+  year: 2020
+  id: asco2020
+  link: https://meetings.asco.org/am/abstracts
+  deadline: "2020-02-11 23:59:59"
+  timezone: America/Los_Angeles
+  date: May 29 - June 2, 2020
+  place: Chicago, IL
+  sub: MIC
+
+- name: KDD
+  year: 2020
+  id: kdd20
+  link: https://www.kdd.org/kdd2020/
+  deadline: "2020-02-13 23:59:59"
+  timezone: America/Los_Angeles
+  date: August 22-27, 2020
+  place: San Diego Convention Center, San Diego, California - USA
+  sub: ML
+
+- name: MICCAI Challenge rebuttal
+  year: 2020
+  id: miccai2020c-rebuttal
+  link: https://www.biomedical-challenges.org/miccai2020/
+  deadline: "2020-02-14 23:59:00"
+  timezone: Etc/GMT+1
+  date: Oct 4 - 8, 2020
+  place: San Miguel, Lima, Peru
+  sub: MIC
+
+- name: MICCAI abstract
+  year: 2020
+  id: miccai2020-abs
+  link: https://www.miccai2020.org/
+  deadline: "2020-03-03 23:59:00"
+  timezone: US/Pacific
+  date: Oct 4 - 8, 2020
+  place: San Miguel, Lima, Peru
+  sub: MIC
+  note: "<b>NOTE</b>: Abstract submission deadline: 2020-03-03 23:59:00."
+
+- name: ECCV
+  year: 2020
+  id: eccv20
+  link: https://eccv2020.eu
+  deadline: "2020-03-05 07:00:00"
+  timezone: Europe/London
+  date: August 23-28, 2020
+  place: Glasgow, Scotland, UK
+  sub: CV
+
+- name: MICCAI
+  year: 2020
+  id: miccai2020
+  link: https://www.miccai2020.org/
+  deadline: "2020-03-17 23:59:00"
+  timezone: US/Pacific
+  date: Oct 4 - 8, 2020
+  place: San Miguel, Lima, Peru
+  sub: MIC
+  note: "<b>NOTE</b>: Abstract submission deadline: 2020-03-03 23:59:00."
+
+- name: RSNA abstract (TBD)
+  year: 2020
+  id: rsna2020
+  link: https://www.rsna.org/annual-meeting/abstract-submission
+  deadline: "2020-04-10 18:00:00"
+  timezone: US/Pacific
+  date: Nov 29 - Dec 4, 2020
+  place: McCormick Place, Chicago, Illinois
+  sub: MIC
+
+- name: ICML rebuttal
+  year: 2020
+  id: icml2020-reb
+  link: https://icml.cc/Conferences/2020
+  deadline: "2020-04-21 04:59:00"
+  timezone: US/Pacific
+  date: Jul 13 - 18, 2020
+  place: Messe Wien Exhibition & Congress Center, Vienna, Austria
+  sub: ML
+  note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m."
+
+- name: MICCAI review
+  year: 2020
+  id: miccai2020-review
+  link: https://www.miccai2020.org/
+  deadline: "2020-04-22 23:59:00"
+  timezone: US/Pacific
+  date: Oct 4 - 8, 2020
+  place: San Miguel, Lima, Peru
+  sub: MIC
+  note: "<b>NOTE</b>: Abstract submission deadline: 2020-03-03 23:59:00."
+
+- name: MICCAI rebuttal
+  year: 2020
+  id: miccai2020-reb
+  link: https://www.miccai2020.org/
+  deadline: "2020-05-26 23:59:00"
+  timezone: US/Pacific
+  date: Oct 4 - 8, 2020
+  place: San Miguel, Lima, Peru
+  sub: MIC
+
+- name: NeurIPS abstract
+  year: 2020
+  id: neurips2020-abstract
+  link: https://nips.cc/
+  deadline: "2020-05-27 13:00:00"
+  timezone: US/Pacific
+  date: Sun Dec 6th through Sat the 12th, 2020
+  place: Vancouver Convention Center, Vancouver CANADA
+  sub: ML
+
+- name: NeurIPS
+  year: 2020
+  id: neurips2020
+  link: https://nips.cc/
+  deadline: "2020-06-03 13:00:00"
+  timezone: US/Pacific
+  date: Sun Dec 6th through Sat the 12th, 2020
+  place: Vancouver Convention Center, Vancouver CANADA
+  sub: ML
+
+- name: BMVC review
+  year: 2020
+  id: bmvc2020-review
+  link: https://bmvc2020.github.io/
+  deadline: "2020-06-18 23:59:00"
+  timezone: US/Pacific
+  date: 7th-11th September 2020
+  place: TBD
+  sub: ML
+
+- name: NeurIPS review
+  year: 2020
+  id: neurips2020-review
+  link: https://nips.cc/
+  deadline: "2020-07-24 13:00:00"
+  timezone: US/Pacific
+  date: Sun Dec 6th through Sat the 12th, 2020
+  place: Vancouver Convention Center, Vancouver CANADA
+  sub: ML
+
+- name: WACV review
+  year: 2021
+  id: wacv2021-review
+  link: http://wacv2021.thecvf.com/
+  deadline: "2020-07-27 23:59:59"
+  timezone: UTC
+  date: January 5 - 9
+  place: Hawaii
+  sub: CV
+
+- name: TMI call for Annotation-Efficient Deep Learning
+  year: 2020
+  id: tmi-dl
+  link: http://www.embs.org/wp-content/uploads/2020/06/TMI-Special_issue-4.pdf
+  deadline: "2020-07-31 23:59:59"
+  timezone: US/Pacific
+  date: Dec 15, 2020
+  place: TMI
+  sub: SI
+  note: IEEE Transactions on Medical Imaging (IF - 7.816)
+
+- name: NeurIPS rebuttal
+  year: 2020
+  id: neurips2020-rebuttal
+  link: https://nips.cc/
+  deadline: "2020-08-13 13:00:00"
+  timezone: US/Pacific
+  date: Sun Dec 6th through Sat the 12th, 2020
+  place: Vancouver Convention Center, Vancouver CANADA
+  sub: ML
+
+- name: ACCV review
+  year: 2020
+  id: accv2020-review
+  link: http://accv2020.kyoto/
+  deadline: "2020-08-15 23:59:00"
+  timezone: UTC
+  date: Nov 30 ~ Dec 4, 2020
+  place: Kyoto, Japan
+  sub: CV
+
+- name: AAAI (TBD)
+  year: 2021
+  id: aaai2021
+  link: TBD
+  deadline: "2020-09-05 11:59:00"
+  timezone: US/Hawaii
+  date: TBD
+  place: TBD
+  sub: ML
+
+- name: JBHI call for Multi-modal Computing for Biomedical Intelligence Systems
+  year: 2021
+  id: jbhi-mm
+  link: https://www.embs.org/jbhi/j-bhi-special-issue-on-multi-modal-computing-for-biomedical-intelligence-systems/
+  deadline: "2020-09-30 23:59:59"
+  timezone: US/Pacific
+  date: Mar 31, 2021
+  place: JBHI
+  sub: SI
+  note: IEEE Journal of Biomedical and Health Informatics (IF - 5.223)
+
+- name: ICLR
+  year: 2021
+  id: iclr21
+  link: http://iclr.cc/
+  deadline: "2020-10-02 08:00:00"
+  timezone: US/Pacific
+  date: TBD
+  place: TBD
+  sub: ML
+  note: "<b>NOTE</b>: Mandatory abstract deadline on Sep 28, 2020. "
+
+- name: NeurIPS camera ready
+  year: 2020
+  id: neurips2020-final
+  link: https://nips.cc/
+  deadline: "2020-10-22 13:00:00"
+  timezone: US/Pacific
+  date: Sun Dec 6th through Sat the 12th, 2020
+  place: Vancouver Convention Center, Vancouver CANADA (Virtual)
+  sub: ML
+  note: paper+poster+code+video
+
+- name: ISBI
+  year: 2021
+  id: isbi21
+  link: https://biomedicalimaging.org/2021/
+  deadline: "2020-10-25 23:59:59"
+  timezone: US/Pacific
+  date: April 13-16, 2021
+  place: Nice, France
+  sub: MIC
+
+- name: CVPR abstract
+  year: 2021
+  id: cvpr21-abstract
+  link: http://cvpr2021.thecvf.com
+  deadline: "2020-11-09 23:59:00"
+  timezone: US/Pacific
+  date: June 19 to June 25, 2021
+  place: Nashville, TN
+  sub: CV
+  note: "<b>Paper Registration Deadline</b>:\tNovember 9, 2020 (11:59PM Pacific Time)."
+
+- name: CVPR
+  year: 2021
+  id: cvpr21
+  link: http://cvpr2021.thecvf.com
+  deadline: "2020-11-16 23:59:00"
+  timezone: US/Pacific
+  date: June 19 to June 25, 2021
+  place: Nashville, TN
+  sub: CV
+
+- name: IJCAI abstract
+  year: 2021
+  id: ijcai21-abstract
+  link: https://ijcai-21.org/
+  deadline: "2021-01-13 11:59:00"
+  timezone: UTC
+  date: 21st -26th August, 2021
+  place: Montreal, Canada
+  sub: ML
+
+- name: IJCAI
+  year: 2021
+  id: ijcai21
+  link: https://ijcai-21.org/
+  deadline: "2021-01-19 11:59:00"
+  timezone: UTC
+  date: 21st -26th August, 2021
+  place: Montreal, Canada
+  sub: ML
+
+- name: ICML abstract
+  year: 2021
+  id: icml21-abstract
+  link: https://icml.cc/Conferences/2021
+  deadline: "2021-01-29 11:59:00"
+  timezone: UTC
+  date: July 18-24, 2021
+  place: Vienna, Austria
+  sub: ML
+
+- name: ICML
+  year: 2021
+  id: icml21
+  link: https://icml.cc/Conferences/2021
+  deadline: "2021-02-05 11:59:00"
+  timezone: UTC
+  date: July 18-24, 2021
+  place: Virtual
+  sub: ML
+
+- name: MICCAI abstract
+  year: 2021
+  id: miccai21-abstract
+  link: https://miccai2021.org/
+  deadline: "2021-02-09 23:59:00"
+  timezone: UTC
+  date: September 27 - October 1, 2021
+  place: trasbourg, FRANCE
+  sub: MIC
+
+- name: MICCAI
+  year: 2021
+  id: miccai21
+  link: https://miccai2021.org/
+  deadline: "2021-03-03 23:59:00"
+  timezone: UTC
+  date: September 27 - October 1, 2021
+  place: trasbourg, FRANCE
+  sub: MIC
+
+- name: ICCV abstract
+  year: 2021
+  id: iccv21-abstract
+  link: http://iccv2021.thecvf.com/
+  deadline: "2021-03-10 23:59:00"
+  timezone: America/Los_Angeles
+  date: October 11-17, 2021
+  place: Montreal, Canada
+  sub: CV
+
+- name: ICML review
+  year: 2021
+  id: icml2021-review
+  link: https://icml.cc/
+  deadline: "2021-03-13 23:59:00"
+  timezone: US/Pacific
+  date: July 18-24, 2021
+  place: Virtual
+  sub: ML
+
+- name: ICCV
+  year: 2021
+  id: iccv21
+  link: http://iccv2021.thecvf.com/
+  deadline: "2021-03-17 23:59:00"
+  timezone: America/Los_Angeles
+  date: October 11-17, 2021
+  place: Montreal, Canada
+  sub: CV
+
+- name: MICCAI review
+  year: 2021
+  id: miccai21-review
+  link: https://miccai2021.org/
+  deadline: "2021-04-20 23:59:00"
+  timezone: UTC
+  date: September 27 - October 1, 2021
+  place: trasbourg, FRANCE
+  sub: MIC
+
+- name: NeurIPS abstract
+  year: 2021
+  id: neurips21-abs
+  link: https://neurips.cc/Conferences/2021/
+  deadline: "2021-05-19 20:00:00"
+  timezone: UTC
+  date: December 5-14, 2021
+  place: Online
+  sub: ML
+  note: "<b>NOTE</b>: Mandatory abstract deadline on May 19, 2021"
+
+- name: MICCAI rebuttal
+  year: 2021
+  id: miccai21-rebuttal
+  link: https://miccai2021.org/
+  deadline: "2021-05-21 23:59:00"
+  timezone: US/Pacific
+  date: September 27 - October 1, 2021
+  place: trasbourg, FRANCE
+  sub: MIC
+
+- name: NeurIPS
+  year: 2021
+  id: neurips21
+  link: https://neurips.cc/Conferences/2021/
+  deadline: "2021-05-26 20:00:00"
+  timezone: UTC
+  date: December 5-14, 2021
+  place: Online
+  sub: ML
+  note: "<b>NOTE</b>: Mandatory abstract deadline on May 19, 2021"
+
+- name: ICCV review
+  year: 2021
+  id: iccv21-review
+  link: http://iccv2021.thecvf.com/
+  deadline: "2021-05-26 23:59:00"
+  timezone: America/Los_Angeles
+  date: October 11-17, 2021
+  place: Montreal, Canada
+  sub: CV
+
+- name: NeurIPS review
+  year: 2021
+  id: neurips21-review
+  link: https://neurips.cc/Conferences/2021/
+  deadline: "2021-07-16 20:00:00"
+  timezone: UTC
+  date: December 5-14, 2021
+  place: Online
+  sub: ML
+
+- name: AAAI abstract
+  year: 2022
+  id: aaai22-abstract
+  link: https://aaai.org/Conferences/AAAI-22/
+  deadline: "2021-08-30 23:59:59"
+  timezone: Etc/GMT+12
+  date: February 22 - March 1, 2022
+  place: Vancouver, British Columbia, Canada
+  sub: ML
+
+- name: AAAI
+  year: 2022
+  id: aaai22
+  link: https://aaai.org/Conferences/AAAI-22/
+  deadline: "2021-09-08 23:59:59"
+  timezone: Etc/GMT+12
+  date: February 22 - March 1, 2022
+  place: Vancouver, British Columbia, Canada
+  sub: ML
+
+- name: ICLR abstract
+  year: 2022
+  id: iclr22-abstract
+  link: https://iclr.cc/Conferences/2022
+  deadline: "2021-09-28 17:00:00"
+  timezone: Etc/GMT+7
+  date: Apr 25-29, 2022
+  place: Virtual
+  sub: ML
+
+- name: ICLR
+  year: 2022
+  id: iclr22
+  link: https://iclr.cc/Conferences/2022
+  deadline: "2021-10-05 17:00:00"
+  timezone: Etc/GMT+7
+  date: Apr 25-29, 2022
+  place: Virtual
+  sub: ML
+
+- name: ISBI
+  year: 2022
+  id: isbi22
+  link: https://biomedicalimaging.org/2022/
+  deadline: "2021-10-06 23:59:59"
+  timezone: US/Pacific
+  date: March 28-31, 2022
+  place: Kolkata, India
+  sub: MIC
+
+- name: CVPR
+  year: 2022
+  id: cvpr22
+  link: http://cvpr2022.thecvf.com/
+  deadline: "2021-11-16 23:59:59"
+  timezone: US/Pacific
+  date: June 21 - 24, 2022
+  place: New Orleans, Louisiana
+  sub: CV
+
+- name: CVPR supplementary
+  year: 2022
+  id: cvpr22-supp
+  link: http://cvpr2022.thecvf.com/
+  deadline: "2021-11-24 09:59:59"
+  timezone: US/Pacific
+  date: June 21 - 24, 2022
+  place: New Orleans, Louisiana
+  sub: CV
+
+- name: CVPR review
+  year: 2022
+  id: cvpr22-review
+  link: http://cvpr2022.thecvf.com/
+  deadline: "2022-01-14 09:59:59"
+  timezone: US/Pacific
+  date: June 21 - 24, 2022
+  place: New Orleans, Louisiana
+  sub: CV
+
+- name: MICCAI abstract
+  year: 2022
+  id: miccai2022-abs
+  link: https://conferences.miccai.org/2022/
+  deadline: "2022-02-15 23:59:00"
+  timezone: US/Pacific
+  date: September 18-22, 2022
+  place: Resorts World Convention Centre Singapore
+  sub: MIC
+  note: "<b>NOTE</b>: Abstract submission deadline: 2020-02-15 23:59:00."
+
+- name: MICCAI
+  year: 2022
+  id: miccai2022
+  link: https://conferences.miccai.org/2022/
+  deadline: "2022-03-01 23:59:00"
+  timezone: US/Pacific
+  date: September 18-22, 2022
+  place: Resorts World Convention Centre Singapore
+  sub: MIC
+  note: "<b>NOTE</b>: Abstract submission deadline: 2020-02-15 23:59:00."
+
+- name: TMI SI on Geometric Deep Learning in Medical Imaging
+  year: 2022
+  id: tmi-gdl
+  link: https://www.embs.org/wp-content/uploads/2021/02/TMI-CFP-GDL_final.pdf
+  deadline: "2022-03-01 23:59:59"
+  timezone: Etc/GMT+12
+  date: Aug 15, 2022
+  place: TMI
+  sub: SI
+  note: IEEE Transactions on Medical Imaging
+
+- name: ICML review
+  year: 2022
+  id: icml2022-review
+  link: https://icml.cc/
+  deadline: "2022-03-05 23:59:00"
+  timezone: US/Pacific
+  date: "-"
+  place: "-"
+  sub: ML
+
+- name: MICCAI review
+  year: 2022
+  id: miccai2022-review
+  link: https://conferences.miccai.org/2022/
+  deadline: "2022-04-07 23:59:00"
+  timezone: US/Pacific
+  date: September 18-22, 2022
+  place: Resorts World Convention Centre Singapore
+  sub: MIC
