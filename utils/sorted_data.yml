@@ -12,26 +12,15 @@
   sub: CV
   note: DDL may differ based on timezone, please check carefully
 
-- name: ICML
+- name: USENIX Security
   year: 2023
-  id: ICML2023
-  link: https://waset.org/m-learning-conference-in-april-2023-in-venice
-  deadline: "2022-06-01 23:59:00"
+  id: USENIXSecurity2023
+  link: https://www.usenix.org/conference/usenixsecurity23
+  deadline: "2022-06-07 23:59:00"
   timezone: EST
-  date: April 12-13, 2023
-  place: Venice, Italy
-  sub: ML
-  note: DDL may differ based on timezone, please check carefully
-
-- name: ICCV
-  year: 2023
-  id: ICCV2023
-  link: https://waset.org/computer-vision-conference-in-january-2023-in-istanbul
-  deadline: "2022-06-10 23:59:00"
-  timezone: EST
-  date: January 28-29, 2023
-  place: Istanbul, Turkey
-  sub: CV
+  date: "AUGUST 9\u201311, 2023"
+  place: ANAHEIM, CA, USA
+  sub: S
   note: DDL may differ based on timezone, please check carefully
 
 - name: SIGGRAPH
@@ -89,17 +78,6 @@
   sub: ML
   note: DDL may differ based on timezone, please check carefully
 
-- name: ICLR
-  year: 2023
-  id: ICLR2023
-  link: https://waset.org/learning-representations-conference-in-august-2023-in-sydney
-  deadline: "2022-07-01 23:59:00"
-  timezone: EST
-  date: August 30-31, 2023
-  place: Sydney, Australia
-  sub: ML
-  note: DDL may differ based on timezone, please check carefully
-
 - name: ACCV
   year: 2022
   id: ACCV2022
@@ -142,6 +120,17 @@
   date: November 20-23, 2022
   place: Taiwan
   sub: NLP
+  note: DDL may differ based on timezone, please check carefully
+
+- name: NDSS
+  year: 2023
+  id: NDSS2023
+  link: https://www.ndss-symposium.org/ndss2023-call-for-papers/
+  deadline: "2022-07-29 23:59:00"
+  timezone: EST
+  date: TBA
+  place: TBA
+  sub: S
   note: DDL may differ based on timezone, please check carefully
 
 - name: IMWUT
@@ -197,6 +186,17 @@
   date: May 2-5, 2022
   place: IEEE
   sub: IOT
+  note: DDL may differ based on timezone, please check carefully
+
+- name: ICLR
+  year: 2022
+  id: ICLR2023
+  link: https://iclr.cc/Conferences/2022/CallForPapers
+  deadline: "2021-10-05 23:59:00"
+  timezone: EST
+  date: Apr 25th - 29th, 2022
+  place: Virtual
+  sub: ML
   note: DDL may differ based on timezone, please check carefully
 
 - name: IPSN
@@ -296,6 +296,39 @@
   date: December 4-8, 2022
   place: Rio de Janeiro, Brazil
   sub: IOT
+  note: DDL may differ based on timezone, please check carefully
+
+- name: ICML
+  year: 2023
+  id: ICML2023
+  link: https://icml.cc/Conferences/FutureMeetings
+  deadline: TBA
+  timezone: EST
+  date: July 24 - 30, 2023
+  place: Seoul, South Korea
+  sub: ML
+  note: DDL may differ based on timezone, please check carefully
+
+- name: ICCV
+  year: 2023
+  id: ICCV2023
+  link: https://iccv2021.thecvf.com/
+  deadline: TBA
+  timezone: EST
+  date: TBA
+  place: Paris, France
+  sub: CV
+  note: DDL may differ based on timezone, please check carefully
+
+- name: ASSETS
+  year: 2023
+  id: ASSETS2023
+  link: https://assets22.sigaccess.org/
+  deadline: TBA
+  timezone: EST
+  date: TBA
+  place: TBA
+  sub: IoT
   note: DDL may differ based on timezone, please check carefully
 
 - name: ICRA
