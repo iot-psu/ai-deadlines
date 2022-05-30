@@ -298,6 +298,17 @@
   sub: IOT
   note: DDL may differ based on timezone, please check carefully
 
+- name: ASSETS
+  year: 2023
+  id: ASSETS2023
+  link: https://assets22.sigaccess.org/
+  deadline: TBA
+  timezone: EST
+  date: TBA
+  place: TBA
+  sub: IoT
+  note: DDL may differ based on timezone, please check carefully
+
 - name: ICRA
   year: 2023
   id: ICRA2023
