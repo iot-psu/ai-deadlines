@@ -15,11 +15,11 @@
 - name: ICML
   year: 2023
   id: ICML2023
-  link: https://waset.org/m-learning-conference-in-april-2023-in-venice
-  deadline: "2022-06-01 23:59:00"
+  link: https://icml.cc/Conferences/FutureMeetings
+  deadline: TBA
   timezone: EST
-  date: April 12-13, 2023
-  place: Venice, Italy
+  date: July 24 - 30, 2023  
+  place: Seoul, South Korea
   sub: ML
   note: DDL may differ based on timezone, please check carefully
 
@@ -329,4 +329,26 @@
   date: MAY 1-5, 2023
   place: TEXAS, USA
   sub: O
+  note: DDL may differ based on timezone, please check carefully
+
+- name: NDSS
+  year: 2023
+  id: NDSS2023
+  link: https://www.ndss-symposium.org/ndss2023-call-for-papers/
+  deadline: "2022-07-29 23:59:00"
+  timezone: EST
+  date: TBA
+  place: TBA
+  sub: S
+  note: DDL may differ based on timezone, please check carefully
+
+- name: USENIX Security
+  year: 2023
+  id: USENIXSecurity2023
+  link: https://www.usenix.org/conference/usenixsecurity23
+  deadline: "2022-06-07 23:59:00"
+  timezone: EST
+  date: AUGUST 9–11, 2023
+  place: ANAHEIM, CA, USA
+  sub: S
   note: DDL may differ based on timezone, please check carefully
