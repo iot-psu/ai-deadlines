@@ -276,6 +276,17 @@
   sub: O
   note: DDL may differ based on timezone, please check carefully
 
+- name: IPIN
+  year: 2022
+  id: IPIN2022
+  link: https://www.ipin-conference.org/2022/index.html
+  deadline: "2022-05-15 23:59:00"
+  timezone: EST
+  date: SEP 5-8, 2022
+  place: BEIJING, China
+  sub: IOT
+  note: DDL may differ based on timezone, please check carefully
+
 - name: NeurIPS
   year: 2022
   id: NeurIPS2022
