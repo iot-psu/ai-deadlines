@@ -23,17 +23,6 @@
   sub: ML
   note: DDL may differ based on timezone, please check carefully
 
-- name: MOBICOM
-  year: 2022
-  id: MOBICOM2022
-  link: https://www.sigmobile.org/mobicom/2022/
-  deadline: "2022-06-10 23:59:00"
-  timezone: EST
-  date: Oct 17-21, 2022
-  place: Hyatt Regency Sydney, Australia
-  sub: IOT
-  note: DDL may differ based on timezone, please check carefully
-
 - name: ICCV
   year: 2023
   id: ICCV2023
@@ -262,6 +251,17 @@
   timezone: EST
   date: Aug 22-26, 2022
   place: Amsterdam, the Netherlands
+  sub: IOT
+  note: DDL may differ based on timezone, please check carefully
+
+- name: MOBICOM
+  year: 2022
+  id: MOBICOM2022
+  link: https://www.sigmobile.org/mobicom/2022/
+  deadline: "2022-03-25 23:59:00"
+  timezone: EST
+  date: Oct 17-21, 2022
+  place: Hyatt Regency Sydney, Australia
   sub: IOT
   note: DDL may differ based on timezone, please check carefully
 

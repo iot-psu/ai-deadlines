@@ -23,17 +23,6 @@
   sub: ML
   note: DDL may differ based on timezone, please check carefully
 
-- name: MOBICOM
-  year: 2022
-  id: MOBICOM2022
-  link: https://www.sigmobile.org/mobicom/2022/
-  deadline: "2022-06-10 23:59:00"
-  timezone: EST
-  date: Oct 17-21, 2022
-  place: Hyatt Regency Sydney, Australia
-  sub: IOT
-  note: DDL may differ based on timezone, please check carefully
-
 - name: ICCV
   year: 2023
   id: ICCV2023
@@ -199,28 +188,6 @@
   sub: IOT
   note: DDL may differ based on timezone, please check carefully
 
-- name: ICRA
-  year: 2023
-  id: ICRA2023
-  link: https://www.ieee-ras.org/component/rseventspro/event/1706-icra-2023-international-conference-on-robotics-and-automation
-  deadline: TBA
-  timezone: EST
-  date: 29 May-2 June 2023
-  place: London, United Kingdom
-  sub: O
-  note: DDL may differ based on timezone, please check carefully
-
-- name: WWW
-  year: 2023
-  id: WWW2023
-  link: https://www2023.thewebconf.org/
-  deadline: TBA
-  timezone: EST
-  date: MAY 1-5, 2023
-  place: TEXAS, USA
-  sub: O
-  note: DDL may differ based on timezone, please check carefully
-
 - name: INFOCOM
   year: 2022
   id: INFOCOM2022
@@ -287,6 +254,17 @@
   sub: IOT
   note: DDL may differ based on timezone, please check carefully
 
+- name: MOBICOM
+  year: 2022
+  id: MOBICOM2022
+  link: https://www.sigmobile.org/mobicom/2022/
+  deadline: "2022-03-25 23:59:00"
+  timezone: EST
+  date: Oct 17-21, 2022
+  place: Hyatt Regency Sydney, Australia
+  sub: IOT
+  note: DDL may differ based on timezone, please check carefully
+
 - name: ACMMM
   year: 2022
   id: ACMMM2022
@@ -318,4 +296,26 @@
   date: December 4-8, 2022
   place: Rio de Janeiro, Brazil
   sub: IOT
+  note: DDL may differ based on timezone, please check carefully
+
+- name: ICRA
+  year: 2023
+  id: ICRA2023
+  link: https://www.ieee-ras.org/component/rseventspro/event/1706-icra-2023-international-conference-on-robotics-and-automation
+  deadline: TBA
+  timezone: EST
+  date: 29 May-2 June 2023
+  place: London, United Kingdom
+  sub: O
+  note: DDL may differ based on timezone, please check carefully
+
+- name: WWW
+  year: 2023
+  id: WWW2023
+  link: https://www2023.thewebconf.org/
+  deadline: TBA
+  timezone: EST
+  date: MAY 1-5, 2023
+  place: TEXAS, USA
+  sub: O
   note: DDL may differ based on timezone, please check carefully
