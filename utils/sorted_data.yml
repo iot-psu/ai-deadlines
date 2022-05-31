@@ -254,6 +254,18 @@
   sub: IOT
   note: DDL may differ based on timezone, please check carefully
 
+- name: ACM SIGMETRICS / IFIP PERFORMANCE
+  year: 2022
+  id: ACMSIGMETRICSIFIPPERFORMANCE2022
+  link: https://www.sigmetrics.org/sigmetrics2022/
+  deadline: "2022-02-03 23:59:00"
+  timezone: EST
+  date: June 6-10, 2022
+  place: Mumbai, India
+  sub: O
+  note: The conference has different season submissions; DDL may differ based on timezone,
+    please check carefully
+
 - name: MOBICOM
   year: 2022
   id: MOBICOM2022
