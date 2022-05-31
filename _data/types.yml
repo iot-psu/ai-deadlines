@@ -1,6 +1,6 @@
 ---
-- name: IoT
-  sub: IOT
+- name: Mobile Computing
+  sub: MC
 - name: Machine Learning
   sub: ML
 - name: Computer Vision
@@ -13,3 +13,13 @@
   sub: S
 - name: Others
   sub: O
+- name: Robotics
+  sub: RO
+- name: Computer Netwroks
+  sub: CN
+- name: Performance Evaluation
+  sub: PE
+- name: Computer Graphics
+  sub: CG
+- name: Human-Computer Interaction
+  sub: HCI

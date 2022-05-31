@@ -18,7 +18,7 @@
   link: https://www.usenix.org/conference/usenixsecurity23
   deadline: "2022-06-07 23:59:00"
   timezone: EST
-  date: "AUGUST 9\u201311, 2023"
+  date: Aug 9 - 11, 2023
   place: ANAHEIM, CA, USA
   sub: S
   note: DDL may differ based on timezone, please check carefully
@@ -31,7 +31,7 @@
   timezone: EST
   date: 8-11 August, 2022
   place: VANCOUVER
-  sub: CV
+  sub: CG
   note: DDL may differ based on timezone, please check carefully
 
 - name: ICDM
@@ -64,7 +64,7 @@
   timezone: EST
   date: Nov 7-9, 2022
   place: Boston, USA
-  sub: IOT
+  sub: MC
   note: DDL may differ based on timezone, please check carefully
 
 - name: ACML
@@ -141,7 +141,7 @@
   timezone: EST
   date: Unknown
   place: Unknown
-  sub: IOT
+  sub: HCI
   note: DDL may differ based on timezone, please check carefully
 
 - name: SP
@@ -163,7 +163,7 @@
   timezone: EST
   date: "APRIL 17\u201319, 2023"
   place: BOSTON, MA, USA
-  sub: IOT
+  sub: CN
   note: DDL may differ based on timezone, please check carefully
 
 - name: ICC
@@ -174,7 +174,7 @@
   timezone: EST
   date: 28 May - 1 June 2023
   place: Rome RM, Italy
-  sub: IOT
+  sub: CN
   note: DDL may differ based on timezone, please check carefully
 
 - name: INFOCOM
@@ -185,7 +185,7 @@
   timezone: EST
   date: May 2-5, 2022
   place: IEEE
-  sub: IOT
+  sub: CN
   note: DDL may differ based on timezone, please check carefully
 
 - name: ICLR
@@ -207,7 +207,7 @@
   timezone: EST
   date: May 4-6, 2022
   place: Milan, Italy
-  sub: IOT
+  sub: CN
   note: DDL may differ based on timezone, please check carefully
 
 - name: IoTDI
@@ -218,7 +218,7 @@
   timezone: EST
   date: May 3-6, 2022
   place: ACM/IEEE
-  sub: IOT
+  sub: CN
   note: DDL may differ based on timezone, please check carefully
 
 - name: CHI
@@ -229,7 +229,7 @@
   timezone: EST
   date: Apr 30 - May 5, 2022
   place: New Orleans, USA
-  sub: IOT
+  sub: HCI
   note: DDL may differ based on timezone, please check carefully
 
 - name: CVPR
@@ -243,6 +243,17 @@
   sub: CV
   note: DDL may differ based on timezone, please check carefully
 
+- name: IJCAI
+  year: 2022
+  id: IJCAI2022
+  link: https://ijcai-22.org/
+  deadline: "2022-01-14 23:59:00"
+  timezone: EST
+  date: July 23-29, 2022
+  place: Messe Wien, Vienna, Austria
+  sub: ML
+  note: DDL may differ based on timezone, please check carefully
+
 - name: SIGCOMM
   year: 2022
   id: SIGCOMM2022
@@ -251,20 +262,31 @@
   timezone: EST
   date: Aug 22-26, 2022
   place: Amsterdam, the Netherlands
-  sub: IOT
+  sub: CN
   note: DDL may differ based on timezone, please check carefully
 
-- name: ACM SIGMETRICS / IFIP PERFORMANCE
+- name: SIGMETRICS
   year: 2022
-  id: ACMSIGMETRICSIFIPPERFORMANCE2022
+  id: SIGMETRICS2022
   link: https://www.sigmetrics.org/sigmetrics2022/
   deadline: "2022-02-03 23:59:00"
   timezone: EST
   date: June 6-10, 2022
   place: Mumbai, India
-  sub: O
+  sub: PE
   note: The conference has different season submissions; DDL may differ based on timezone,
     please check carefully
+
+- name: IROS
+  year: 2022
+  id: IROS2022
+  link: https://iros2022.org/
+  deadline: "2022-03-01 23:59:00"
+  timezone: EST
+  date: Oct. 23-27 2022.
+  place: Kyoto, Japan
+  sub: RO
+  note: DDL may differ based on timezone, please check carefully
 
 - name: MOBICOM
   year: 2022
@@ -274,7 +296,7 @@
   timezone: EST
   date: Oct 17-21, 2022
   place: Hyatt Regency Sydney, Australia
-  sub: IOT
+  sub: MC
   note: DDL may differ based on timezone, please check carefully
 
 - name: ACMMM
@@ -296,7 +318,7 @@
   timezone: EST
   date: SEP 5-8, 2022
   place: BEIJING, China
-  sub: IOT
+  sub: CN
   note: DDL may differ based on timezone, please check carefully
 
 - name: NeurIPS
@@ -318,7 +340,18 @@
   timezone: EST
   date: December 4-8, 2022
   place: Rio de Janeiro, Brazil
-  sub: IOT
+  sub: CN
+  note: DDL may differ based on timezone, please check carefully
+
+- name: ICASSP
+  year: 2023
+  id: ICASSP2022
+  link: https://2023.ieeeicassp.org/
+  deadline: TBA
+  timezone: EST
+  date: 4 - 9 June, 2023.
+  place: Rhodes Island, Greece
+  sub: ML
   note: DDL may differ based on timezone, please check carefully
 
 - name: ICML
@@ -351,7 +384,7 @@
   timezone: EST
   date: TBA
   place: TBA
-  sub: IoT
+  sub: HCI
   note: DDL may differ based on timezone, please check carefully
 
 - name: ICRA
@@ -362,7 +395,7 @@
   timezone: EST
   date: 29 May-2 June 2023
   place: London, United Kingdom
-  sub: O
+  sub: RO
   note: DDL may differ based on timezone, please check carefully
 
 - name: WWW
