@@ -243,6 +243,17 @@
   sub: CV
   note: DDL may differ based on timezone, please check carefully
 
+- name: MOBISYS
+  year: 2022
+  id: MOBISYS2022
+  link: https://www.sigmobile.org/mobisys/2022/
+  deadline: "2021-12-20 23:59:00"
+  timezone: EST
+  date: June 27 - July 1, 2022.
+  place: Portland, Oregon, USA
+  sub: MC
+  note: DDL may differ based on timezone, please check carefully
+
 - name: IJCAI
   year: 2022
   id: IJCAI2022
