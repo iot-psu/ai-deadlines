@@ -1,6 +1,18 @@
 
 ---
 
+- name: TMAMI
+  year: 2022
+  id: TMAMI2022
+  link: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
+  deadline: None
+  timezone: EST
+  date: EST
+  place: EST
+  sub: ML
+  note: Journel;
+
+
 - name: ECCV
   year: 2022
   id: ECCV2022
