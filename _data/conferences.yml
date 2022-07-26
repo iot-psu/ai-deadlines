@@ -1,6 +1,17 @@
 
 ---
 
+- name: TEST_CONF
+  year: 2023
+  id: TEST_CONF2023
+  link: https://www2023.thewebconf.org/
+  deadline: "2022-07-27 23:59:00"
+  timezone: EST
+  date: July 1-5, 2023
+  place: TEXAS, USA
+  sub: O
+  note: test conf
+
 - name: NDSS
   year: 2023
   id: NDSS2023
@@ -21,6 +32,17 @@
   date: Unknown
   place: Unknown
   sub: HCI
+  note: DDL may differ based on timezone, please check carefully
+
+- name: AAAI
+  year: 2023
+  id: AAAI2023
+  link: https://aaai.org/Conferences/AAAI-23/
+  deadline: "2022-08-15 23:59:00"
+  timezone: EST
+  date: February 7-14, 2023
+  place: Washington, DC, USA
+  sub: ML
   note: DDL may differ based on timezone, please check carefully
 
 - name: SP
@@ -65,6 +87,17 @@
   date: 28 May - 1 June 2023
   place: Rome RM, Italy
   sub: CN
+  note: DDL may differ based on timezone, please check carefully
+
+- name: WWW
+  year: 2023
+  id: WWW2023
+  link: https://www2023.thewebconf.org/
+  deadline: "2022-10-13 23:59:00"
+  timezone: EST
+  date: MAY 1-5, 2023
+  place: TEXAS, USA
+  sub: O
   note: DDL may differ based on timezone, please check carefully
 
 - name: WWW
@@ -343,17 +376,6 @@
   sub: CV
   note: DDL may differ based on timezone, please check carefully
 
-- name: AAAI
-  year: 2023
-  id: AAAI2023
-  link: https://aaai.org/Conferences/AAAI-23/
-  deadline: "2022-07-11 23:59:00"
-  timezone: EST
-  date: February 7-14, 2023
-  place: Washington, DC, USA
-  sub: ML
-  note: DDL may differ based on timezone, please check carefully
-
 - name: WACV
   year: 2023
   id: WACV2023
@@ -441,26 +463,3 @@
   place: London, United Kingdom
   sub: RO
   note: DDL may differ based on timezone, please check carefully
-
-- name: WWW
-  year: 2023
-  id: WWW2023
-  link: https://www2023.thewebconf.org/
-  deadline: "2022-10-13 23:59:00"
-  timezone: EST
-  date: MAY 1-5, 2023
-  place: TEXAS, USA
-  sub: O
-  note: DDL may differ based on timezone, please check carefully
-  
-- name: TEST_CONF
-  year: 2023
-  id: TEST_CONF2023
-  link: https://www2023.thewebconf.org/
-  deadline: "2022-07-27 23:59:00"
-  timezone: EST
-  date: July 1-5, 2023
-  place: TEXAS, USA
-  sub: O
-  note: test conf
-
