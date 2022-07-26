@@ -90,6 +90,17 @@
   sub: CN
   note: DDL may differ based on timezone, please check carefully
 
+- name: CHI
+  year: 2022
+  id: CHI2023
+  link: https://chi2023.acm.org/for-authors/papers/
+  deadline: "2022-09-15 23:59:00"
+  timezone: EST
+  date: Apr 30 - May 5, 2022
+  place: Hamburg, Germany
+  sub: HCI
+  note: DDL may differ based on timezone, please check carefully
+
 - name: ICLR
   year: 2023
   id: ICLR2023
@@ -143,17 +154,6 @@
   date: May 2-5, 2022
   place: IEEE
   sub: CN
-  note: DDL may differ based on timezone, please check carefully
-
-- name: CHI
-  year: 2022
-  id: CHI2023
-  link: https://chi2023.acm.org/for-authors/papers/
-  deadline: "2021-09-15 23:59:00"
-  timezone: EST
-  date: Apr 30 - May 5, 2022
-  place: Hamburg, Germany
-  sub: HCI
   note: DDL may differ based on timezone, please check carefully
 
 - name: IPSN
