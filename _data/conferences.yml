@@ -67,6 +67,17 @@
   sub: CN
   note: DDL may differ based on timezone, please check carefully
 
+- name: WWW
+  year: 2023
+  id: WWW2023
+  link: https://www2023.thewebconf.org/
+  deadline: "2022-10-13 23:59:00"
+  timezone: EST
+  date: MAY 1-5, 2023
+  place: TEXAS, USA
+  sub: O
+  note: DDL may differ based on timezone, please check carefully
+
 - name: CVPR
   year: 2023
   id: CVPR2023
@@ -429,15 +440,4 @@
   date: 29 May-2 June 2023
   place: London, United Kingdom
   sub: RO
-  note: DDL may differ based on timezone, please check carefully
-
-- name: WWW
-  year: 2023
-  id: WWW2023
-  link: https://www2023.thewebconf.org/
-  deadline: TBA
-  timezone: EST
-  date: MAY 1-5, 2023
-  place: TEXAS, USA
-  sub: O
   note: DDL may differ based on timezone, please check carefully
