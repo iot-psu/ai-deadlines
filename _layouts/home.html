@@ -76,7 +76,7 @@
           </div>
 
       {% for conf in site.data.conferences %}
-      <div id="{{conf.id}}" class="{% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
+      <div id="{{conf.id}}" class="ConfItem {% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
         <div class="row">
             <div class="col-xs-12 col-sm-6">
                 <a href="{{conf.link}}"><b>{{conf.name}} {{conf.year}}</b></a>
@@ -186,17 +186,17 @@
         //   return $(b).attr('diff') - $(a).attr('diff');
         // }).appendTo($("#coming_confs"));
         
-        $("#sort-order-checkbox2 input").on("click", function() {
-          if ($("#sort-order-checkbox2 input").is(":checked")) {
-            $("#coming_confs .ConfItem").sort(function (a, b) {
-              return $(a).attr('diff') - $(b).attr('diff');
-            }).appendTo($("#coming_confs"));
-          } else {
-            $("#coming_confs .ConfItem").sort(function (a, b) {
-              return $(b).attr('diff') - $(a).attr('diff');
-            }).appendTo($("#coming_confs"));
-          }
-        });
+        // $("#sort-order-checkbox2 input").on("click", function() {
+        //   if ($("#sort-order-checkbox2 input").is(":checked")) {
+        //     $("#coming_confs .ConfItem").sort(function (a, b) {
+        //       return $(a).attr('diff') - $(b).attr('diff');
+        //     }).appendTo($("#coming_confs"));
+        //   } else {
+        //     $("#coming_confs .ConfItem").sort(function (a, b) {
+        //       return $(b).attr('diff') - $(a).attr('diff');
+        //     }).appendTo($("#coming_confs"));
+        //   }
+        // });
 
         $("#sort-order-checkbox input").on("click", function() {
           if ($("#sort-order-checkbox input").is(":checked")) {
