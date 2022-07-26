@@ -110,9 +110,9 @@
 
         <div id="past_confs">
           <h1 id="past-events-title" style="color: #334FFF;">Past Events</h1>
-          <div id="sort-order-checkbox">
+  <!--         <div id="sort-order-checkbox">
                 <label for="sort-order"><input type="checkbox" id="sort-order" name="sort-order" checked>Most recent first</label>
-          </div>
+          </div> -->
         </div>
 
 
@@ -186,30 +186,22 @@
         $("#coming_confs .ConfItem").sort(function (a, b) {
           return $(b).attr('diff') - $(a).attr('diff');
         }).appendTo($("#coming_confs"));
-        
-        // $("#sort-order-checkbox2 input").on("click", function() {
-        //   if ($("#sort-order-checkbox2 input").is(":checked")) {
-        //     $("#coming_confs .ConfItem").sort(function (a, b) {
+
+        $("#past_confs .ConfItem").sort(function (a, b) {
+          return $(b).attr('diff') - $(a).attr('diff');
+        }).appendTo($("#past_confs"));
+
+        // $("#sort-order-checkbox input").on("click", function() {
+        //   if ($("#sort-order-checkbox input").is(":checked")) {
+        //     $("#past_confs .ConfItem").sort(function (a, b) {
         //       return $(a).attr('diff') - $(b).attr('diff');
-        //     }).appendTo($("#coming_confs"));
+        //     }).appendTo($("#past_confs"));
         //   } else {
-        //     $("#coming_confs .ConfItem").sort(function (a, b) {
+        //     $("#past_confs .ConfItem").sort(function (a, b) {
         //       return $(b).attr('diff') - $(a).attr('diff');
-        //     }).appendTo($("#coming_confs"));
+        //     }).appendTo($("#past_confs"));
         //   }
         // });
-
-        $("#sort-order-checkbox input").on("click", function() {
-          if ($("#sort-order-checkbox input").is(":checked")) {
-            $("#past_confs .ConfItem").sort(function (a, b) {
-              return $(a).attr('diff') - $(b).attr('diff');
-            }).appendTo($("#past_confs"));
-          } else {
-            $("#past_confs .ConfItem").sort(function (a, b) {
-              return $(b).attr('diff') - $(a).attr('diff');
-            }).appendTo($("#past_confs"));
-          }
-        });
 
 
 
