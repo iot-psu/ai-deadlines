@@ -145,6 +145,17 @@
   sub: CN
   note: DDL may differ based on timezone, please check carefully
 
+- name: CHI
+  year: 2022
+  id: CHI2023
+  link: https://chi2023.acm.org/for-authors/papers/
+  deadline: "2021-09-15 23:59:00"
+  timezone: EST
+  date: Apr 30 - May 5, 2022
+  place: Hamburg, Germany
+  sub: HCI
+  note: DDL may differ based on timezone, please check carefully
+
 - name: IPSN
   year: 2022
   id: IPSN2022
@@ -165,17 +176,6 @@
   date: May 3-6, 2022
   place: ACM/IEEE
   sub: CN
-  note: DDL may differ based on timezone, please check carefully
-
-- name: CHI
-  year: 2022
-  id: CHI2022
-  link: https://chi2022.acm.org/
-  deadline: "2021-11-18 23:59:00"
-  timezone: EST
-  date: Apr 30 - May 5, 2022
-  place: New Orleans, USA
-  sub: HCI
   note: DDL may differ based on timezone, please check carefully
 
 - name: MOBISYS
