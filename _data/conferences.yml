@@ -123,6 +123,17 @@
   sub: CN
   note: DDL may differ based on timezone, please check carefully
 
+- name: USENIX Security
+  year: 2023
+  id: USENIXSecurity2023
+  link: https://www.usenix.org/conference/usenixsecurity23
+  deadline: "2022-10-11 23:59:00"
+  timezone: EST
+  date: Aug 9 - 11, 2023
+  place: ANAHEIM, CA, USA
+  sub: S
+  note: DDL may differ based on timezone, please check carefully
+
 - name: WWW
   year: 2023
   id: WWW2023
@@ -286,17 +297,6 @@
   date: Oct. 23-27 2022.
   place: Tel-Aviv
   sub: CV
-  note: DDL may differ based on timezone, please check carefully
-
-- name: USENIX Security
-  year: 2023
-  id: USENIXSecurity2023
-  link: https://www.usenix.org/conference/usenixsecurity23
-  deadline: "2022-06-07 23:59:00"
-  timezone: EST
-  date: Aug 9 - 11, 2023
-  place: ANAHEIM, CA, USA
-  sub: S
   note: DDL may differ based on timezone, please check carefully
 
 - name: SIGGRAPH
