@@ -63,6 +63,7 @@
       </div>
       {% for conf in site.data.conferences %}
       <div id="{{conf.id}}" class="{% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
+        <h1 id="ongoing-events-title" style="color: #FF334C;">Ongoing Events</h1>
         <div class="row">
             <div class="col-xs-12 col-sm-6">
                 <a href="{{conf.link}}"><b>{{conf.name}} {{conf.year}}</b></a>
@@ -93,7 +94,7 @@
       {% endfor %}
 
         <div id="past_confs">
-          <h1 id="past-events-title">Past Events</h1>
+          <h1 id="past-events-title" style="color: #334FFF;">Past Events</h1>
           <div id="sort-order-checkbox">
                 <label for="sort-order"><input type="checkbox" id="sort-order" name="sort-order" checked>Most recent first</label>
             </div>
