@@ -71,10 +71,11 @@
       <div id="coming_confs">
           
           <h1 id="ongoing-events-title" style="color: #FF334C;">Ongoing Events</h1>
+<!--           
           <div id="sort-order-checkbox2">
                 <label for="sort-order2"><input type="checkbox" id="sort-order2" name="sort-order2" checked>Most recent first</label>
           </div>
-
+ -->
       {% for conf in site.data.conferences %}
       <div id="{{conf.id}}" class="ConfItem {% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
         <div class="row">
@@ -182,9 +183,9 @@
 
 
         // Sort coming_confs and past_confs
-        // $("#coming_confs .ConfItem").sort(function (a, b) {
-        //   return $(b).attr('diff') - $(a).attr('diff');
-        // }).appendTo($("#coming_confs"));
+        $("#coming_confs .ConfItem").sort(function (a, b) {
+          return $(b).attr('diff') - $(a).attr('diff');
+        }).appendTo($("#coming_confs"));
         
         // $("#sort-order-checkbox2 input").on("click", function() {
         //   if ($("#sort-order-checkbox2 input").is(":checked")) {
