@@ -61,9 +61,12 @@
             </div>
           </div>
       </div>
+        <div id="ongoing_confs">
+          <h1 id="ongoing-events-title" style="color: #FF334C;">Ongoing Events</h1>
+        </div>
+      
       {% for conf in site.data.conferences %}
       <div id="{{conf.id}}" class="{% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
-        <h1 id="ongoing-events-title" style="color: #FF334C;">Ongoing Events</h1>
         <div class="row">
             <div class="col-xs-12 col-sm-6">
                 <a href="{{conf.link}}"><b>{{conf.name}} {{conf.year}}</b></a>
