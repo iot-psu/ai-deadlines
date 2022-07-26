@@ -91,13 +91,24 @@
         <hr>
       </div>
       {% endfor %}
+
+        <div id="past_confs">
+          <h1 id="past-events-title">Past Events</h1>
+          <div id="sort-order-checkbox">
+                <label for="sort-order"><input type="checkbox" id="sort-order" name="sort-order" checked>Most recent first</label>
+            </div>
+        </div>
+
+
       <footer>
         Maintained by <a href="//github.com/{{ site.github_username }}/ai-deadlines/">@{{ site.github_username }} / <a href="//github.com/hzhou3/">@{{ site.maintainers }}</a>.
         <!--Maintained by <a href="//github.com/{{ site.github_username }}/ai-deadlines/">@{{ site.github_username }} / <a href="//github.com/{{ site.maintainers }}/">@{{ site.maintainers }}</a>.-->
       </footer>
       <hr>
   </div>
-  <script type="text/javascript" charset="utf-8">
+
+
+    <script type="text/javascript" charset="utf-8">
   $(function() {
       {% for conf in site.data.conferences %}
       {% if conf.deadline == "TBA" %}
@@ -137,8 +148,19 @@
 
         // check if date has passed, add 'past' class to it
         var today = moment();
-        if (today.diff(confDate) > 0)
+        diff = today.diff(confDate);
+        $('#{{conf.id}}').attr("diff", diff)
+        if (diff > 0) {
           $('#{{conf.id}}').addClass('past');
+          $('#{{conf.id}}').appendTo($("#past_confs"))
+          $('#{{conf.id}} .timer').replaceWith($('#{{conf.id}} .deadline'));
+          $('#{{conf.id}} .timer-small').replaceWith($('#{{conf.id}} .deadline'));
+          $('#{{conf.id}} .calendar').remove();
+        }
+
+        // var today = moment();
+        // if (today.diff(confDate) > 0)
+        //   $('#{{conf.id}}').addClass('past');
       {% endif %}
       {% endfor %}
 
