@@ -67,6 +67,17 @@
   sub: CN
   note: DDL may differ based on timezone, please check carefully
 
+- name: CVPR
+  year: 2023
+  id: CVPR2023
+  link: https://cvpr2023.thecvf.com/
+  deadline: "2022-11-11 23:59:00"
+  timezone: EST
+  date: June 18-22, 2023
+  place: Vancouver, Canada
+  sub: CV
+  note: DDL may differ based on timezone, please check carefully
+
 - name: INFOCOM
   year: 2022
   id: INFOCOM2022
@@ -109,17 +120,6 @@
   date: Apr 30 - May 5, 2022
   place: New Orleans, USA
   sub: HCI
-  note: DDL may differ based on timezone, please check carefully
-
-- name: CVPR
-  year: 2022
-  id: CVPR2022
-  link: https://cvpr2022.thecvf.com/
-  deadline: "2021-11-18 23:59:00"
-  timezone: EST
-  date: "June 19 \u2013 24, 2022"
-  place: New Orleans, USA
-  sub: CV
   note: DDL may differ based on timezone, please check carefully
 
 - name: MOBISYS
