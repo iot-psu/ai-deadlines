@@ -67,7 +67,7 @@
 
       <div id="coming_confs">
       {% for conf in site.data.conferences %}
-      <div id="{{conf.id}}" class="ConfItem {% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
+      <div id="{{conf.id}}" class="{% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
         <div class="row">
             <div class="col-xs-12 col-sm-6">
                 <a href="{{conf.link}}"><b>{{conf.name}} {{conf.year}}</b></a>
