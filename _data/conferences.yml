@@ -105,7 +105,7 @@
   year: 2023
   id: ICLR2023
   link: https://iclr.cc/Conferences/2023/CallForPapers
-  deadline: "2022-9-28 23:59:00"
+  deadline: "2022-09-28 23:59:00"
   timezone: EST
   date: May 1st - 5th, 2023
   place: Virtual
@@ -436,6 +436,21 @@
   id: ASSETS2023
   link: https://assets22.sigaccess.org/
   deadline: TBA
+  timezone: EST
+  date: TBA
+  place: TBA
+  sub: HCI
+  note: DDL may differ based on timezone, please check carefully
+
+
+
+
+
+- name: TEST
+  year: 2023
+  id: TEST2023
+  link: https://assets22.sigaccess.org/
+  deadline: "2022-07-27 23:59:00"
   timezone: EST
   date: TBA
   place: TBA
