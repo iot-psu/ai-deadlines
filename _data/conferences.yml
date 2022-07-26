@@ -1,16 +1,6 @@
 
 ---
 
-- name: TEST_CONF
-  year: 2023
-  id: TEST_CONF2023
-  link: https://www2023.thewebconf.org/
-  deadline: "2022-07-27 23:59:00"
-  timezone: EST
-  date: July 1-5, 2023
-  place: TEXAS, USA
-  sub: O
-  note: test conf
 
 - name: NDSS
   year: 2023
@@ -452,3 +442,16 @@
   place: London, United Kingdom
   sub: RO
   note: DDL may differ based on timezone, please check carefully
+  
+  
+
+- name: TEST_CONF
+  year: 2023
+  id: TEST_CONF2023
+  link: https://www2023.thewebconf.org/
+  deadline: "2022-07-27 23:59:00"
+  timezone: EST
+  date: July 1-5, 2023
+  place: TEXAS, USA
+  sub: O
+  note: test conf
