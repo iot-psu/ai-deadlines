@@ -1,17 +1,6 @@
 
 ---
 
-- name: TEST_CONF
-  year: 2023
-  id: TEST_CONF2023
-  link: https://www2023.thewebconf.org/
-  deadline: "2022-07-27 23:59:00"
-  timezone: EST
-  date: July 1-5, 2023
-  place: TEXAS, USA
-  sub: O
-  note: test conf
-
 - name: NDSS
   year: 2023
   id: NDSS2023
@@ -101,6 +90,17 @@
   sub: HCI
   note: DDL may differ based on timezone, please check carefully
 
+- name: ICRA
+  year: 2023
+  id: ICRA2023
+  link: https://www.ieee-ras.org/component/rseventspro/event/1706-icra-2023-international-conference-on-robotics-and-automation
+  deadline: "2022-09-15 23:59:00"
+  timezone: EST
+  date: 29 May-2 June 2023
+  place: London, United Kingdom
+  sub: RO
+  note: DDL may differ based on timezone, please check carefully
+
 - name: ICLR
   year: 2023
   id: ICLR2023
@@ -145,6 +145,17 @@
   sub: O
   note: DDL may differ based on timezone, please check carefully
 
+- name: ICASSP
+  year: 2023
+  id: ICASSP2022
+  link: https://2023.ieeeicassp.org/
+  deadline: "2022-10-19 23:59:00"
+  timezone: EST
+  date: 4 - 9 June, 2023.
+  place: Rhodes Island, Greece
+  sub: ML
+  note: DDL may differ based on timezone, please check carefully
+
 - name: CVPR
   year: 2023
   id: CVPR2023
@@ -153,6 +164,17 @@
   timezone: EST
   date: June 18-22, 2023
   place: Vancouver, Canada
+  sub: CV
+  note: DDL may differ based on timezone, please check carefully
+
+- name: ICCV
+  year: 2023
+  id: ICCV2023
+  link: https://iccv2023.thecvf.com/
+  deadline: "2023-03-08 23:59:00"
+  timezone: EST
+  date: 9/30/2023 - 10/6/2023
+  place: Paris, France
   sub: CV
   note: DDL may differ based on timezone, please check carefully
 
@@ -398,17 +420,6 @@
   sub: ML
   note: Journel;
 
-- name: ICASSP
-  year: 2023
-  id: ICASSP2022
-  link: https://2023.ieeeicassp.org/
-  deadline: TBA
-  timezone: EST
-  date: 4 - 9 June, 2023.
-  place: Rhodes Island, Greece
-  sub: ML
-  note: DDL may differ based on timezone, please check carefully
-
 - name: ICML
   year: 2023
   id: ICML2023
@@ -420,17 +431,6 @@
   sub: ML
   note: DDL may differ based on timezone, please check carefully
 
-- name: ICCV
-  year: 2023
-  id: ICCV2023
-  link: https://iccv2023.thecvf.com/
-  deadline: TBA
-  timezone: EST
-  date: 9/30/2023 - 10/6/2023
-  place: Paris, France
-  sub: CV
-  note: DDL may differ based on timezone, please check carefully
-
 - name: ASSETS
   year: 2023
   id: ASSETS2023
@@ -440,15 +440,4 @@
   date: TBA
   place: TBA
   sub: HCI
-  note: DDL may differ based on timezone, please check carefully
-
-- name: ICRA
-  year: 2023
-  id: ICRA2023
-  link: https://www.ieee-ras.org/component/rseventspro/event/1706-icra-2023-international-conference-on-robotics-and-automation
-  deadline: TBA
-  timezone: EST
-  date: 29 May-2 June 2023
-  place: London, United Kingdom
-  sub: RO
   note: DDL may differ based on timezone, please check carefully
