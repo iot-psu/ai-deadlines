@@ -1,5 +1,17 @@
 
 ---
+
+- name: TEST_CONF
+  year: 2023
+  id: TEST_CONF2023
+  link: https://www2023.thewebconf.org/
+  deadline: "2022-07-27 23:59:00"
+  timezone: EST
+  date: July 1-5, 2023
+  place: TEXAS, USA
+  sub: O
+  note: test conf
+
 - name: NDSS
   year: 2023
   id: NDSS2023
@@ -54,6 +66,17 @@
   date: MAY 22-26, 2023
   place: SAN FRANCISCO, CA
   sub: S
+  note: DDL may differ based on timezone, please check carefully
+
+- name: MOBICOM
+  year: 2023
+  id: MOBICOM2023
+  link: https://www.sigmobile.org/mobicom/2023/
+  deadline: "2022-08-19 23:59:00"
+  timezone: EST
+  date: Oct 17-21, 2022
+  place: Madrid, Spain
+  sub: MC
   note: DDL may differ based on timezone, please check carefully
 
 - name: NSDI
@@ -208,17 +231,6 @@
   date: Oct. 23-27 2022.
   place: Kyoto, Japan
   sub: RO
-  note: DDL may differ based on timezone, please check carefully
-
-- name: MOBICOM
-  year: 2022
-  id: MOBICOM2022
-  link: https://www.sigmobile.org/mobicom/2022/
-  deadline: "2022-03-25 23:59:00"
-  timezone: EST
-  date: Oct 17-21, 2022
-  place: Hyatt Regency Sydney, Australia
-  sub: MC
   note: DDL may differ based on timezone, please check carefully
 
 - name: ACMMM
@@ -440,15 +452,3 @@
   place: London, United Kingdom
   sub: RO
   note: DDL may differ based on timezone, please check carefully
-  
-  
-- name: TEST_CONF
-  year: 2023
-  id: TEST_CONF2023
-  link: https://www2023.thewebconf.org/
-  deadline: "2022-07-27 23:59:00"
-  timezone: EST
-  date: July 1-5, 2023
-  place: TEXAS, USA
-  sub: O
-  note: test conf
