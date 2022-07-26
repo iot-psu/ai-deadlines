@@ -70,7 +70,7 @@
 
       <div id="coming_confs">
           
-          <h1 id="ongoing-events-title" style="color: #FF334C;">Ongoing Events</h1>
+          <!-- <h1 id="ongoing-events-title" style="color: #FF334C;">Ongoing Events</h1> -->
 <!--           
           <div id="sort-order-checkbox2">
                 <label for="sort-order2"><input type="checkbox" id="sort-order2" name="sort-order2" checked>Most recent first</label>
@@ -109,10 +109,10 @@
     </div>
 
         <div id="past_confs">
-          <h1 id="past-events-title" style="color: #334FFF;">Past Events</h1>
-  <!--         <div id="sort-order-checkbox">
+          <h1 id="past-events-title" style="color: #808080;">Past Events</h1>
+          <div id="sort-order-checkbox">
                 <label for="sort-order"><input type="checkbox" id="sort-order" name="sort-order" checked>Most recent first</label>
-          </div> -->
+          </div>
         </div>
 
 
@@ -187,21 +187,21 @@
           return $(b).attr('diff') - $(a).attr('diff');
         }).appendTo($("#coming_confs"));
 
-        $("#past_confs .ConfItem").sort(function (a, b) {
-          return $(b).attr('diff') - $(a).attr('diff');
-        }).appendTo($("#past_confs"));
+        // $("#past_confs .ConfItem").sort(function (a, b) {
+        //   return $(b).attr('diff') - $(a).attr('diff');
+        // }).appendTo($("#past_confs"));
 
-        // $("#sort-order-checkbox input").on("click", function() {
-        //   if ($("#sort-order-checkbox input").is(":checked")) {
-        //     $("#past_confs .ConfItem").sort(function (a, b) {
-        //       return $(a).attr('diff') - $(b).attr('diff');
-        //     }).appendTo($("#past_confs"));
-        //   } else {
-        //     $("#past_confs .ConfItem").sort(function (a, b) {
-        //       return $(b).attr('diff') - $(a).attr('diff');
-        //     }).appendTo($("#past_confs"));
-        //   }
-        // });
+        $("#sort-order-checkbox input").on("click", function() {
+          if ($("#sort-order-checkbox input").is(":checked")) {
+            $("#past_confs .ConfItem").sort(function (a, b) {
+              return $(a).attr('diff') - $(b).attr('diff');
+            }).appendTo($("#past_confs"));
+          } else {
+            $("#past_confs .ConfItem").sort(function (a, b) {
+              return $(b).attr('diff') - $(a).attr('diff');
+            }).appendTo($("#past_confs"));
+          }
+        });
 
 
 
