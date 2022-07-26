@@ -61,14 +61,20 @@
             </div>
           </div>
       </div>
-        <div id="ongoing_confs">
+<!--         <div id="ongoing_confs">
           <h1 id="ongoing-events-title" style="color: #FF334C;">Ongoing Events</h1>
           <div id="sort-order-checkbox2">
                 <label for="sort-order2"><input type="checkbox" id="sort-order2" name="sort-order2" checked>Most recent first</label>
           </div>
-        </div>
+        </div> -->
 
       <div id="coming_confs">
+          
+          <h1 id="ongoing-events-title" style="color: #FF334C;">Ongoing Events</h1>
+          <div id="sort-order-checkbox2">
+                <label for="sort-order2"><input type="checkbox" id="sort-order2" name="sort-order2" checked>Most recent first</label>
+          </div>
+
       {% for conf in site.data.conferences %}
       <div id="{{conf.id}}" class="{% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
         <div class="row">
