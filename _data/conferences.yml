@@ -12,6 +12,17 @@
   sub: O
   note: test conf
 
+- name: TEST_CONF
+  year: 2023
+  id: TEST_CONF2023
+  link: https://www2023.thewebconf.org/
+  deadline: "2022-07-27 23:59:00"
+  timezone: EST
+  date: July 1-5, 2023
+  place: TEXAS, USA
+  sub: O
+  note: test conf
+
 - name: NDSS
   year: 2023
   id: NDSS2023
@@ -22,6 +33,18 @@
   place: TBA
   sub: S
   note: DDL may differ based on timezone, please check carefully
+
+- name: SIGMETRICS
+  year: 2023
+  id: SIGMETRICS2023
+  link: https://www.sigmetrics.org/sigmetrics2023/
+  deadline: "2022-08-10 23:59:00"
+  timezone: EST
+  date: June 6-10, 2022
+  place: Orlando, Florida
+  sub: PE
+  note: The conference has different season submissions; DDL may differ based on timezone,
+    please check carefully
 
 - name: IMWUT
   year: 2022
@@ -187,18 +210,6 @@
   place: Amsterdam, the Netherlands
   sub: CN
   note: DDL may differ based on timezone, please check carefully
-
-- name: SIGMETRICS
-  year: 2022
-  id: SIGMETRICS2022
-  link: https://www.sigmetrics.org/sigmetrics2022/
-  deadline: "2022-02-03 23:59:00"
-  timezone: EST
-  date: June 6-10, 2022
-  place: Mumbai, India
-  sub: PE
-  note: The conference has different season submissions; DDL may differ based on timezone,
-    please check carefully
 
 - name: ACM SIGCHI DIS
   year: 2022
@@ -452,17 +463,3 @@
   place: London, United Kingdom
   sub: RO
   note: DDL may differ based on timezone, please check carefully
-
-  
-- name: TEST_CONF
-  year: 2023
-  id: TEST_CONF2023
-  link: https://www2023.thewebconf.org/
-  deadline: "2022-07-27 23:59:00"
-  timezone: EST
-  date: July 1-5, 2023
-  place: TEXAS, USA
-  sub: O
-  note: test conf
-  
-  
