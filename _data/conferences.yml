@@ -409,9 +409,9 @@
   sub: NLP
   note: DDL may differ based on timezone, please check carefully
 
-- name: TMAMI
+- name: TPAMI
   year: 2022
-  id: TMAMI2022
+  id: TPAMI2022
   link: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
   deadline: TBA
   timezone: EST
