@@ -409,6 +409,17 @@
   sub: NLP
   note: DDL may differ based on timezone, please check carefully
 
+- name: TIOT
+  year: 2023
+  id: TIOT2023
+  link: https://dl.acm.org/pb-assets/static_journal_pages/tiot/pdf/SI-TIOT-Wireless-Sensing-for-IoT-1655926453017.pdf
+  deadline: "2022-10-15 23:59:00"
+  timezone: EST
+  date: TBD
+  place: TBD
+  sub: MC
+  note: TIOT Special Issue on Wireless Sensing for IoT
+
 - name: TPAMI
   year: 2022
   id: TPAMI2022
