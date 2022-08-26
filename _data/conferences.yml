@@ -15,20 +15,20 @@
 - name: SIGMETRICS
   year: 2023
   id: SIGMETRICS2023
-  link: https://www.sigmetrics.org/sigmetrics2023/
-  deadline: "2022-08-10 23:59:00"
+  link: https://www.sigmetrics.org/sigmetrics2023/call_for_papers.html
+  deadline: "2022-10-19 23:59:00"
   timezone: EST
   date: June 6-10, 2022
   place: Orlando, Florida
   sub: PE
   note: The conference has different season submissions; DDL may differ based on timezone,
-    please check carefully
+    please check carefully; Fall submission website;
 
 - name: IMWUT
   year: 2022
   id: IMWUT2022
   link: https://dl.acm.org/journal/imwut
-  deadline: "2022-08-15 23:59:00"
+  deadline: "2022-11-15 23:59:00"
   timezone: EST
   date: Unknown
   place: Unknown
@@ -61,7 +61,7 @@
   year: 2023
   id: MOBICOM2023
   link: https://www.sigmobile.org/mobicom/2023/
-  deadline: "2022-08-19 23:59:00"
+  deadline: "2022-08-20 23:59:00"
   timezone: EST
   date: Oct 17-21, 2022
   place: Madrid, Spain
@@ -179,12 +179,12 @@
   note: DDL may differ based on timezone, please check carefully
 
 - name: INFOCOM
-  year: 2022
-  id: INFOCOM2022
-  link: https://infocom2022.ieee-infocom.org/
-  deadline: "2021-07-31 23:59:59"
+  year: 2023
+  id: INFOCOM2023
+  link: https://infocom2023.ieee-infocom.org/
+  deadline: "2021-08-01 23:59:59"
   timezone: EST
-  date: May 2-5, 2022
+  date: 17-20 May 2023 // New York area // USA
   place: IEEE
   sub: CN
   note: DDL may differ based on timezone, please check carefully
