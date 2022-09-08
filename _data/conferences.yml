@@ -190,24 +190,24 @@
   note: DDL may differ based on timezone, please check carefully
 
 - name: IPSN
-  year: 2022
-  id: IPSN2022
-  link: https://ipsn.acm.org/2022/
-  deadline: "2021-10-29 23:59:00"
-  timezone: EST
-  date: May 4-6, 2022
-  place: Milan, Italy
+  year: 2023
+  id: IPSN2023
+  link: https://cps-iot-week2023.cs.utsa.edu/
+  deadline: "2022-10-31 23:59:00"
+  timezone: EST, 
+  date: May 9-12, 2023
+  place: San Antonio, Texas USA
   sub: CN
   note: DDL may differ based on timezone, please check carefully
 
 - name: IoTDI
-  year: 2022
-  id: IoTDI2022
-  link: https://conferences.computer.org/iotDI/2022/
-  deadline: "2021-10-29 23:59:59"
+  year: 2023
+  id: IoTDI2023
+  link: https://cps-iot-week2023.cs.utsa.edu/
+  deadline: "2022-10-31 23:59:59"
   timezone: EST
-  date: May 3-6, 2022
-  place: ACM/IEEE
+  date: May 9-12, 2023
+  place: San Antonio, Texas USA
   sub: CN
   note: DDL may differ based on timezone, please check carefully
 
@@ -223,15 +223,15 @@
   note: DDL may differ based on timezone, please check carefully
 
 - name: IJCAI
-  year: 2022
-  id: IJCAI2022
-  link: https://ijcai-22.org/
-  deadline: "2022-01-14 23:59:00"
+  year: 2023
+  id: IJCAI2023
+  link: https://ijcai-23.org/
+  deadline: "2023-01-14 23:59:00"
   timezone: EST
-  date: July 23-29, 2022
-  place: Messe Wien, Vienna, Austria
+  date: August 2023
+  place: Cape Town, South Africa
   sub: ML
-  note: DDL may differ based on timezone, please check carefully
+  note: DDL is not released and is based on previous year.
 
 - name: SIGCOMM
   year: 2022
@@ -244,16 +244,16 @@
   sub: CN
   note: DDL may differ based on timezone, please check carefully
 
-- name: ACM SIGCHI DIS
-  year: 2022
-  id: DIS2022
-  link: https://dis.acm.org/2022/
-  deadline: "2022-02-11 23:59:00"
+- name: ACM DIS2023
+  year: 2023
+  id: ACMDIS2023
+  link: https://dis.acm.org/2023/
+  deadline: "2023-02-11 23:59:00"
   timezone: EST
-  date: 13-17 June, 2022
-  place: Online
+  date: July 2023
+  place: Pittsburgh, Pennsylvania, USA
   sub: HCI
-  note: ACM SIGCHI Conference on Designing Interactive Systems;
+  note: DDL is not released and is based on previous year. ACM SIGCHI Conference on Designing Interactive Systems; 
 
 - name: IROS
   year: 2022
@@ -278,13 +278,13 @@
   note: DDL may differ based on timezone, please check carefully
 
 - name: IPIN
-  year: 2022
-  id: IPIN2022
-  link: https://www.ipin-conference.org/2022/index.html
-  deadline: "2022-05-15 23:59:00"
+  year: 2023
+  id: IPIN2023
+  link: https://www.ipin-conference.org/2023/index.html
+  deadline: "2023-05-15 23:59:00"
   timezone: EST
-  date: SEP 5-8, 2022
-  place: BEIJING, China
+  date: SEP 25-28, 2023
+  place: Gemany
   sub: CN
   note: DDL may differ based on timezone, please check carefully
 
@@ -333,15 +333,15 @@
   note: DDL may differ based on timezone, please check carefully
 
 - name: ICDM
-  year: 2022
-  id: ICDM
-  link: https://icdm22.cse.usf.edu/
-  deadline: "2022-06-10 23:59:00"
+  year: 2023
+  id: ICDM2023
+  link: https://www.data-mining-forum.de/index.php
+  deadline: "2023-01-15 23:59:00"
   timezone: EST
-  date: "Nov. 30 \u2013 Dec. 3, 2022"
-  place: Orlando, FL, USA
+  date: July 12-16, 2023
+  place: New York, USA
   sub: DM
-  note: DDL may differ based on timezone, please check carefully
+  note: DDL is not released and is based on previous year. DDL may differ based on timezone, please check carefully
 
 - name: EMNLP
   year: 2022
