@@ -1,5 +1,16 @@
 
 ---
+- name: ICCCN
+  year: 2023
+  id: ICCCN2023
+  link: http://www.icccn.org/
+  deadline: "2022-03-20 23:59:00"
+  timezone: EST
+  date: July 24 - July 27, 2023
+  place:  Waikiki Beach, Honolulu, HI, USA
+  sub: CN
+  note: DDL is not released and is based on previous year. DDL may differ based on timezone, please check carefully
+
 
 - name: NDSS
   year: 2023
