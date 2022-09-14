@@ -1,5 +1,49 @@
 
 ---
+- name: ISWC
+  year: 2022
+  id: ISWC2022
+  link: https://iswc.net/iswc22/
+  deadline: "2023-01-21 23:59:00"
+  timezone: EST
+  date: Sep 11-15, 2022 
+  place:  Atlanta, USA
+  sub: MC
+  note: DDL is not provided.
+  
+- name: ICDCS
+  year: 2023
+  id: ICDCS2023
+  link: https://secon2023.ieee-secon.org/
+  deadline: "2023-01-21 23:59:00"
+  timezone: EST
+  date: July 18-21, 2023 
+  place:  Hong Kong, China
+  sub: CN
+  note: DDL may differ based on timezone, please check carefully
+
+- name: SECON
+  year: 2022
+  id: SECON2022
+  link: https://secon2022.ieee-secon.org/
+  deadline: "2022-05-16 23:59:00"
+  timezone: EST
+  date: 20–23 September 2022 
+  place:  Virtual Conference
+  sub: CN
+  note: DDL may differ based on timezone, please check carefully
+
+- name: DCOSS
+  year: 2023
+  id: DCOSS2023
+  link: https://dcoss.org/
+  deadline: "2023-02-06 23:59:00"
+  timezone: EST
+  date: June 19-21, 2023
+  place:  Coral Bay, Pafos, Cyprus
+  sub: MC
+  note: DDL may differ based on timezone, please check carefully
+
 - name: ICCCN
   year: 2023
   id: ICCCN2023
