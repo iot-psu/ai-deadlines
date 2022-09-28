@@ -1,5 +1,17 @@
 
 ---
+
+- name: PACMHCI
+  year: 2022
+  id: PACMHCI2022
+  link: https://dl.acm.org/journal/pacmhci/pub-schedule
+  deadline: "2022-01-01 23:59:00"
+  timezone: EST
+  date: TBD
+  place:  TBD
+  sub: MC
+  note: Different tracks have different DDL. See provided link.
+
 - name: HotMobile
   year: 2023
   id: HOTMOBILE2023
