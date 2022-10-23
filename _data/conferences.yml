@@ -24,13 +24,13 @@
   note: DDL may differ based on timezone, please check carefully
 
 - name: MobiHoc
-  year: 2022
-  id: MOBIHOC2022
-  link: https://sigmobile.org/mobihoc/2022/
-  deadline: "2022-03-11 23:59:00"
+  year: 2023
+  id: MOBIHOC2023
+  link: https://sigmobile.org/mobihoc/2023/
+  deadline: "2022-03-03 23:59:00"
   timezone: EST
-  date: Oct 17-20, 2022 
-  place:  Seoul, South Korea
+  date: Oct, 2023 
+  place:  D.C., USA
   sub: CN
   note: DDL may differ based on timezone, please check carefully
 
@@ -81,8 +81,8 @@
 - name: ICCCN
   year: 2023
   id: ICCCN2023
-  link: http://www.icccn.org/
-  deadline: "2022-03-20 23:59:00"
+  link: http://www.icccn.org/icccn23/index.html
+  deadline: "2023-02-21 23:59:00"
   timezone: EST
   date: July 24 - July 27, 2023
   place:  Waikiki Beach, Honolulu, HI, USA
@@ -105,9 +105,9 @@
   year: 2023
   id: SIGMETRICS2023
   link: https://www.sigmetrics.org/sigmetrics2023/call_for_papers.html
-  deadline: "2022-10-19 23:59:00"
+  deadline: "2023-01-25 23:59:00"
   timezone: EST
-  date: June 6-10, 2022
+  date: June 19-23, 2023
   place: Orlando, Florida
   sub: PE
   note: The conference has different season submissions; DDL may differ based on timezone,
@@ -149,10 +149,10 @@
 - name: MOBICOM
   year: 2023
   id: MOBICOM2023
-  link: https://www.sigmobile.org/mobicom/2023/
-  deadline: "2022-08-20 23:59:00"
+  link: https://www.sigmobile.org/mobicom/2023/index.html
+  deadline: "2023-03-17 23:59:00"
   timezone: EST
-  date: Oct 17-21, 2022
+  date: Oct, 2023
   place: Madrid, Spain
   sub: MC
   note: DDL may differ based on timezone, please check carefully
@@ -301,13 +301,13 @@
   note: DDL may differ based on timezone, please check carefully
 
 - name: MOBISYS
-  year: 2022
-  id: MOBISYS2022
-  link: https://www.sigmobile.org/mobisys/2022/
-  deadline: "2021-12-20 23:59:00"
+  year: 2023
+  id: MOBISYS2023
+  link: https://www.sigmobile.org/mobisys/2023/
+  deadline: "2022-12-09 23:59:00"
   timezone: EST
-  date: June 27 - July 1, 2022.
-  place: Portland, Oregon, USA
+  date: June 18 - June 22, 2023
+  place: Helsinki, Finland
   sub: MC
   note: DDL may differ based on timezone, please check carefully
 
