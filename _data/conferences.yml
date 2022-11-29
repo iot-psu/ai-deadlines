@@ -1,6 +1,19 @@
 
 ---
 
+- name: ACL
+  year: 2023
+  id: ACL2023
+  link: https://2023.aclweb.org/
+  deadline: "2023-01-20 23:59:00"
+  timezone: AOE
+  date: July 9-14, 2023
+  place:  Toronto, Canada
+  sub: NLP
+  note: DDL may differ based on timezone, please check carefully
+
+
+
 - name: PACMHCI
   year: 2022
   id: PACMHCI2022
