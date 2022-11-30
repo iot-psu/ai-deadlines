@@ -536,8 +536,8 @@
 - name: ICML
   year: 2023
   id: ICML2023
-  link: https://icml.cc/Conferences/FutureMeetings
-  deadline: TBA
+  link: https://icml.cc/Conferences/2023/Dates
+  deadline: "2023-01-26 23:59:00"
   timezone: EST
   date: July 24 - 30, 2023
   place: Seoul, South Korea
