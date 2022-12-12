@@ -1,6 +1,6 @@
 ## AI Deadlines
 
-Please visit [the list of conferences](https://iot-psu.github.io/ai-deadlines)
+Please visit [the list of conferences](https://iot-psu.github.io/ai-deadlines) and check ranks [conference ranks](http://www.conferenceranks.com/#)
 
 ## Adding/updating a conference
 
