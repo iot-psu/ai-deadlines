@@ -92,16 +92,6 @@
   sub: CN
   note: DDL may differ based on timezone, please check carefully
 
-- name: DCOSS
-  year: 2023
-  id: DCOSS2023
-  link: https://dcoss.org/
-  deadline: "2023-02-06 23:59:00"
-  timezone: EST
-  date: June 19-21, 2023
-  place:  Coral Bay, Pafos, Cyprus
-  sub: MC
-  note: DDL may differ based on timezone, please check carefully
 
 - name: ICCCN
   year: 2023
