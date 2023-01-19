@@ -82,13 +82,13 @@
   note: DDL may differ based on timezone, please check carefully
 
 - name: SECON
-  year: 2022
-  id: SECON2022
-  link: https://secon2022.ieee-secon.org/
-  deadline: "2022-05-16 23:59:00"
+  year: 2023
+  id: SECON2023
+  link: https://secon2023.ieee-secon.org/
+  deadline: "2023-03-29 23:59:00"
   timezone: EST
-  date: 20–23 September 2022 
-  place:  Virtual Conference
+  date: 11-14 September 2023 
+  place: Madrid, Spain
   sub: CN
   note: DDL may differ based on timezone, please check carefully
 
@@ -129,10 +129,10 @@
     please check carefully; Fall submission website;
 
 - name: IMWUT
-  year: 2022
-  id: IMWUT2022
+  year: 2023
+  id: IMWUT2023
   link: https://dl.acm.org/journal/imwut
-  deadline: "2022-11-15 23:59:00"
+  deadline: "2023-02-15 23:59:00"
   timezone: EST
   date: Unknown
   place: Unknown
