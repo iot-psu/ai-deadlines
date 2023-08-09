@@ -2,13 +2,13 @@
 ---
 
 - name: DCOSS-IoT
-  year: 2023
-  id: DCOSSIOT2023
+  year: 2024
+  id: DCOSSIOT2024
   link: https://dcoss.org/
-  deadline: "2023-02-06 23:59:00"
+  deadline: "2024-01-15 23:59:00"
   timezone: AOE
-  date: June 19-21, 2023
-  place:  Coral Bay, Pafos, Cyprus
+  date: April 29 - May 1, 2024
+  place:  Abu Dhabi, United Arab Emirates
   sub: MC
   note: DDL may differ based on timezone, please check carefully
 
@@ -140,35 +140,35 @@
   note: DDL may differ based on timezone, please check carefully
 
 - name: AAAI
-  year: 2023
-  id: AAAI2023
-  link: https://aaai.org/Conferences/AAAI-23/
-  deadline: "2022-08-15 23:59:00"
+  year: 2024
+  id: AAAI2024
+  link: https://aaai.org/Conferences/AAAI-24/
+  deadline: "2023-08-15 23:59:00"
   timezone: EST
-  date: February 7-14, 2023
-  place: Washington, DC, USA
+  date: FEBRUARY 20-27, 2024
+  place: VANCOUVER, CANADA
   sub: ML
   note: DDL may differ based on timezone, please check carefully
 
 - name: SP
-  year: 2023
+  year: 2024
   id: SP
-  link: https://www.ieee-security.org/TC/SP2023/
-  deadline: "2022-08-03 23:59:00"
+  link: https://www.ieee-security.org/TC/SP2024/
+  deadline: "2023-12-06 23:59:00"
   timezone: EST
-  date: MAY 22-25, 2024
+  date: MAY 20-23, 2024
   place: SAN FRANCISCO, CA
   sub: S
   note: DDL may differ based on timezone, please check carefully
 
 - name: MOBICOM
-  year: 2023
-  id: MOBICOM2023
-  link: https://www.sigmobile.org/mobicom/2023/index.html
-  deadline: "2023-03-17 23:59:00"
+  year: 2024
+  id: MOBICOM2024
+  link: https://www.sigmobile.org/mobicom/2024/index.html
+  deadline: "2024-03-17 23:59:00"
   timezone: EST
-  date: Oct, 2023
-  place: Madrid, Spain
+  date: Oct, 2024
+  place: D.C., USA
   sub: MC
   note: DDL may differ based on timezone, please check carefully
 
@@ -184,13 +184,13 @@
   note: DDL may differ based on timezone, please check carefully
 
 - name: CHI
-  year: 2023
-  id: CHI2023
-  link: https://chi2023.acm.org/for-authors/papers/
-  deadline: "2022-09-15 23:59:00"
+  year: 2024
+  id: CHI2024
+  link: https://chi2024.acm.org/
+  deadline: "2023-09-14 23:59:00"
   timezone: EST
-  date: Apr 30 - May 5, 2022
-  place: Hamburg, Germany
+  date: May 11- 16, 2024
+  place: HAWAI, USA
   sub: HCI
   note: DDL may differ based on timezone, please check carefully
 
@@ -206,13 +206,13 @@
   note: DDL may differ based on timezone, please check carefully
 
 - name: ICLR
-  year: 2023
-  id: ICLR2023
-  link: https://iclr.cc/Conferences/2023/CallForPapers
-  deadline: "2022-09-28 23:59:00"
+  year: 2024
+  id: ICLR2024
+  link: https://iclr.cc/Conferences/2024/CallForPapers
+  deadline: "2023-09-28 23:59:00"
   timezone: EST
-  date: May 1st - 5th, 2023
-  place: Virtual
+  date: May 7th, 2024 to May 11th, 2024
+  place: Vienna Austria
   sub: ML
   note: DDL may differ based on timezone, please check carefully
 
@@ -228,13 +228,13 @@
   note: DDL may differ based on timezone, please check carefully
 
 - name: USENIX Security
-  year: 2023
-  id: USENIXSecurity2023
-  link: https://www.usenix.org/conference/usenixsecurity23
-  deadline: "2022-10-11 23:59:00"
+  year: 2024
+  id: USENIXSecurity2024
+  link: https://www.usenix.org/conference/usenixsecurity24
+  deadline: "2024-02-08 23:59:00"
   timezone: EST
-  date: Aug 9 - 11, 2023
-  place: ANAHEIM, CA, USA
+  date: AUGUST 14–16, 2024
+  place: PHILADELPHIA, PA, USA
   sub: S
   note: DDL may differ based on timezone, please check carefully
 
@@ -250,24 +250,24 @@
   note: DDL may differ based on timezone, please check carefully
 
 - name: ICASSP
-  year: 2023
-  id: ICASSP2022
-  link: https://2023.ieeeicassp.org/
-  deadline: "2022-10-19 23:59:00"
+  year: 2025
+  id: ICASSP2025
+  link: https://2025.ieeeicassp.org/
+  deadline: "2024-10-19 23:59:00"
   timezone: EST
-  date: 4 - 9 June, 2023.
-  place: Rhodes Island, Greece
+  date: April 06 to April 11, 2025.
+  place: Hyderabad, India from 
   sub: ML
   note: DDL may differ based on timezone, please check carefully
 
 - name: CVPR
-  year: 2023
-  id: CVPR2023
-  link: https://cvpr2023.thecvf.com/
-  deadline: "2022-11-11 23:59:00"
+  year: 2024
+  id: CVPR2024
+  link: https://cvpr2024.thecvf.com/
+  deadline: "2023-11-10 23:59:00"
   timezone: EST
-  date: June 18-22, 2023
-  place: Vancouver, Canada
+  date: Mon Jun 17th through Fri Jun 21st, 2024
+  place: Seattle, USA
   sub: CV
   note: DDL may differ based on timezone, please check carefully
 
@@ -316,13 +316,13 @@
   note: DDL may differ based on timezone, please check carefully
 
 - name: MOBISYS
-  year: 2023
-  id: MOBISYS2023
-  link: https://www.sigmobile.org/mobisys/2023/
-  deadline: "2022-12-09 23:59:00"
+  year: 2024
+  id: MOBISYS2024
+  link: https://www.sigmobile.org/mobisys/2024/
+  deadline: "2023-12-09 23:59:00"
   timezone: EST
-  date: June 18 - June 22, 2023
-  place: Helsinki, Finland
+  date: June 3 - June 7, 2024
+  place: Tokyo, Japan
   sub: MC
   note: DDL may differ based on timezone, please check carefully
 
