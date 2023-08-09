@@ -360,13 +360,13 @@
   note: DDL is not released and is based on previous year. ACM SIGCHI Conference on Designing Interactive Systems; 
 
 - name: IROS
-  year: 2022
-  id: IROS2022
-  link: https://iros2022.org/
-  deadline: "2022-03-01 23:59:00"
+  year: 2024
+  id: IROS2024
+  link: http://iros2024-abudhabi.org/
+  deadline: "2024-03-01 23:59:00"
   timezone: EST
-  date: Oct. 23-27 2022.
-  place: Kyoto, Japan
+  date: OCT 13 - 17, 2024
+  place: Abu Dhabi
   sub: RO
   note: DDL may differ based on timezone, please check carefully
 
